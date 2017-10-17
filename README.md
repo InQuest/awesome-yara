@@ -32,6 +32,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [InQuest Rules](https://github.com/InQuest/yara-rules) - A collection of Yara rules we wish to share with the world.
 * [Kevin Falcoz Rules](https://github.com/0pc0deFR/YaraRules) - Small collection of malware-related rules.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) - Collected rules rom various authors.
+* [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) - Miscellaneous YARA rules.
 
 ## Tools
 
