@@ -55,6 +55,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing Yara rules.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for Yara Rules.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a Yara scanner into Burp Suite. Yara-Scanner allows you perform on-demand Yara scans of websites within the Burp interface, based on custom Yara rules that you write or obtain.
+* [Yara-Validator](https://github.com/CIRCL/yara-validator) - Validates yara rules and tries to repair the broken ones.
 * [yarGen](https://github.com/Neo23x0/yarGen) - A Yara rule generator for finding related samples and hunting.
 
 ## People
