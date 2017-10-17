@@ -26,6 +26,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures) - YARA signatures developed by Citizen Lab.
 * [Dan Borges Rules](https://github.com/ahhh/YARA) - Rules for identifying features of binaries for deeper inspection.
 * [Didier Stevens Rules](https://blog.didierstevens.com/2014/12/16/yara-rules/) - A couple rules published by Didier Stevens.
+* [GoDaddy Rules](https://github.com/godaddy/yara-rules) - Written for use with ProcFilter.
 
 ## Tools
 
