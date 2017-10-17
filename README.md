@@ -19,6 +19,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [0day1day Rules](https://github.com/0day1day/yarasigs) - A few signatures from various sources.
 * [AlienVault Labs Rules](https://github.com/jaimeblasco/AlienvaultLabs/tree/master/malware_analysis) - Malware rules from AlienVault Labs.
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules) - Rules bundled into AirBnB's BinaryAlert tool.
+* [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules) - Intended to be used with the Burp Yara-Scanner extension.
 
 ## Tools
 
