@@ -58,6 +58,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - An ICAP server with YARA scanner.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator) - Validates yara rules and tries to repair the broken ones.
 * [yarGen](https://github.com/Neo23x0/yarGen) - A Yara rule generator for finding related samples and hunting.
+* [Yeti](https://github.com/yeti-platform/yeti) - Yeti is a platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 
 ## People
 
