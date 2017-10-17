@@ -48,6 +48,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose. ([whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf))
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner) - MultiScanner is a file analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output. Tools can be custom built python scripts, web APIs, software running on another machine, etc.
 * [OCYara](https://github.com/bandrel/OCyara) - The OCyara module performs OCR (Optical Character Recognition) on image files and scans them for matches to Yara rules. OCyara also can process images embedded in PDF files.
+* [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scan pastebin.com with Yara rules.
+* [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for Yara Rules.
 
 ## People
 
