@@ -24,6 +24,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension.
 * [CDI Rules](https://github.com/CyberDefenses/CDI_yara) - A few rules published by CyberDefenses.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures) - YARA signatures developed by Citizen Lab.
+* [Dan Borges Rules](https://github.com/ahhh/YARA) - Rules for identifying features of binaries for deeper inspection.
 
 ## Tools
 
