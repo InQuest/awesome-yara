@@ -54,6 +54,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PUNCH-Cyber YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing Yara rules.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for Yara Rules.
+* [yarGen](https://github.com/Neo23x0/yarGen) - A Yara rule generator for finding related samples and hunting.
 
 ## People
 
