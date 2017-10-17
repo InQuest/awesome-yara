@@ -43,6 +43,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Tools
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert) - BinaryAlert is an open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules. An alert will fire as soon as any match is found, giving an incident response team the ability to quickly contain the threat before it spreads.
+* [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more).
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB) - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 
 ## People
