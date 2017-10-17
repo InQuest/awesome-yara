@@ -38,6 +38,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara) - Yara rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) - A few signatures to possibly be included in x64dbg.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics) - Rules for finding files using magic headers.
+* [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) - Large collection of rules constantly updated by the community.
 
 ## Tools
 
