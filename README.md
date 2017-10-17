@@ -35,6 +35,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) - Miscellaneous YARA rules.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara) - A few malware rules published by SpiderLabs.
 * [Tenable Rules](https://github.com/tenable/yara-rules) - A small collection from Tenable Network Security.
+* [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara) - Yara rules for identifying anti-RE malware techniques.
 
 ## Tools
 
