@@ -21,6 +21,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules) - Rules bundled into AirBnB's BinaryAlert tool.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules) - Intended to be used with the Burp Yara-Scanner extension.
 * [Brian Carter Rules](https://github.com/carterb/yararules) - Rules for Yara. Mostly for use with VirusTotal.
+* [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension.
 
 ## Tools
 
