@@ -23,6 +23,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Brian Carter Rules](https://github.com/carterb/yararules) - Rules for Yara. Mostly for use with VirusTotal.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension.
 * [CDI Rules](https://github.com/CyberDefenses/CDI_yara) - A few rules published by CyberDefenses.
+* [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures) - YARA signatures developed by Citizen Lab.
 
 ## Tools
 
