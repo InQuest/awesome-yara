@@ -18,6 +18,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [0day1day Rules](https://github.com/0day1day/yarasigs) - A few signatures from various sources.
 * [AlienVault Labs Rules](https://github.com/jaimeblasco/AlienvaultLabs/tree/master/malware_analysis) - Malware rules from AlienVault Labs.
+* [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules) - Rules bundled into AirBnB's BinaryAlert tool.
 
 ## Tools
 
