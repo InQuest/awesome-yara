@@ -16,6 +16,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Rules
 
+* [0day1day Rules](https://github.com/0day1day/yarasigs) - A few signatures from various sources.
 
 ## Tools
 
