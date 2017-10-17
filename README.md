@@ -50,9 +50,9 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [OCYara](https://github.com/bandrel/OCyara) - The OCyara module performs OCR (Optical Character Recognition) on image files and scans them for matches to Yara rules. OCyara also can process images embedded in PDF files.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scan pastebin.com with Yara rules.
 * [ProcFilter](https://github.com/godaddy/procfilter) - Helps create YARA signatures that protect Windows environments against a specific threat.
-* [PUNCH-Cyber stoq](https://github.com/PUNCH-Cyber/stoq) - stoQ is a modular and highly customizable framework for the creation of data sets from multiple disparate data sources. stoQ leverages multiple robust technologies in order to allow for a scalable and distributed architecture.
-* [PUNCH-Cyber YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing Yara rules.
+* [stoQ](https://github.com/PUNCH-Cyber/stoq) - A modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
+* [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing Yara rules.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for Yara Rules.
 * [yarGen](https://github.com/Neo23x0/yarGen) - A Yara rule generator for finding related samples and hunting.
 
