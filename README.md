@@ -34,6 +34,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) - Collected rules rom various authors.
 * [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) - Miscellaneous YARA rules.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara) - A few malware rules published by SpiderLabs.
+* [Tenable Rules](https://github.com/tenable/yara-rules) - A small collection from Tenable Network Security.
 
 ## Tools
 
