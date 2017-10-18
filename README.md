@@ -65,9 +65,9 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [yaraMail](https://github.com/kevthehermit/yaraMail) - YARA scanner for IMAP feeds and saved streams.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for YARA Rules.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - Yara rule set coverage analyzer
-* [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a YARA scanner into Burp Suite. Yara-Scanner allows you perform on-demand YARA scans of websites within the Burp interface, based on custom YARA rules that you write or obtain.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap) - YARA scanner For IMAP feeds and saved streams.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - An ICAP server with YARA scanner.
+* [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a YARA scanner into Burp Suite. Yara-Scanner allows you perform on-demand YARA scans of websites within the Burp interface, based on custom YARA rules that you write or obtain.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator) - Validates YARA rules and tries to repair the broken ones.
 * [yarGen](https://github.com/Neo23x0/yarGen) - A YARA rule generator for finding related samples and hunting.
 * [Yeti](https://github.com/yeti-platform/yeti) - Yeti is a platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
