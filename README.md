@@ -52,6 +52,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [ProcFilter](https://github.com/godaddy/procfilter) - Helps create YARA signatures that protect Windows environments against a specific threat.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq) - A modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
+* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - An all-in-one website to create and manage Yara rules.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for YARA Rules.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a YARA scanner into Burp Suite. Yara-Scanner allows you perform on-demand YARA scans of websites within the Burp interface, based on custom YARA rules that you write or obtain.
