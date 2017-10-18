@@ -27,6 +27,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Dan Borges Rules](https://github.com/ahhh/YARA) - Rules for identifying features of binaries for deeper inspection.
 * [Didier Stevens Rules](https://blog.didierstevens.com/2014/12/16/yara-rules/) - A couple rules published by Didier Stevens.
 * [ESET IOCs](https://github.com/eset/malware-ioc/) - YARA and Snort rules from IOCs collected by ESET.
+* [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules) - YARA rules from Fidelis Cyber's IOC repo.
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) - Rules provided in Florian Roth's signature base repository
 * [GoDaddy Rules](https://github.com/godaddy/yara-rules) - Written for use with ProcFilter.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) - A collection of signatures from h3x2b.
