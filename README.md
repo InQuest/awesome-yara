@@ -63,6 +63,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## People
 
+Check out InQuest's [awesome-yara Twitter list](https://twitter.com/InQuest/lists/awesome-yara).
 
 ## Related Awesome Lists
 
