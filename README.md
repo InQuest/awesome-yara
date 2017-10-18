@@ -56,6 +56,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [stoQ](https://github.com/PUNCH-Cyber/stoq) - A modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
 * [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - An all-in-one website to create and manage Yara rules.
+* [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator) - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for YARA Rules.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - Yara rule set coverage analyzer
