@@ -10,6 +10,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Awesome YARA](#awesome-yara)
     - [Rules](#rules)
     - [Tools](#tools)
+        - [Services](#services)
     - [People](#people)
     - [Related Awesome Lists](#related-awesome-lists)
     - [Contributing](#contributing)
@@ -61,7 +62,6 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [ProcFilter](https://github.com/godaddy/procfilter) - Helps create YARA signatures that protect Windows environments against a specific threat.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq) - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
-* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - All-in-one website to create and manage YARA rules.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator) - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail) - YARA scanner for IMAP feeds and saved streams.
@@ -74,6 +74,12 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [yarGen](https://github.com/Neo23x0/yarGen) - YARA rule generator for finding related samples and hunting.
 * [Yeti](https://github.com/yeti-platform/yeti) - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend) - YARA integrated software to handle archive file data.
+
+### Services
+
+* [MalShare](https://malshare.com/) - Free malware repository providing researchers access to samples, malicous feeds, and YARA results.
+* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - All-in-one website to create and manage YARA rules.
+* [YaraRules Analyzer](https://analysis.yararules.com/) - Upload and run files against rulesets from the YaraRules Project.
 
 ## People
 
