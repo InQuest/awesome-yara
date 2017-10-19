@@ -6,7 +6,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 > YARA is an ancronym for: YARA: Another Recursive Ancronym, or Yet Another Ridiculous Acronym. Pick your choice.
 >
-> -- <cite>[Victor M. Alvarez](https://twitter.com/plusvic/status/778983467627479040)</cite>
+> -- *[Victor M. Alvarez](https://twitter.com/plusvic/status/778983467627479040)*
 
 ### Contents
 
