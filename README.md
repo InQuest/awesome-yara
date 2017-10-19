@@ -15,7 +15,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Related Awesome Lists](#related-awesome-lists)
     - [Contributing](#contributing)
 
-## Legend
+### Legend
 
 | Icon | Meaning |
 |---|---|
