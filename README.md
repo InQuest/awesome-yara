@@ -171,6 +171,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [OSINT](https://github.com/jivoi/awesome-osint)
 * [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
 * [Pentesting](https://github.com/enaqx/awesome-pentest)
+* [Reversing](https://github.com/fdivrp/awesome-reversing)
 * [Security](https://github.com/sbilly/awesome-security)
 * [Static Analysis](https://github.com/mre/awesome-static-analysis)
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
