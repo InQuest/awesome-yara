@@ -50,8 +50,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - YARA signatures developed by Citizen Lab.
 * [Dan Borges Rules](https://github.com/ahhh/YARA)
     - Rules for identifying features of binaries for deeper inspection.
-* [Didier Stevens Rules](https://blog.didierstevens.com/2014/12/16/yara-rules/) :gem:
-    - A couple rules published by Didier Stevens.
+* [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
+    - Rule collection published by Didier Stevens.
 * [ESET IOCs](https://github.com/eset/malware-ioc/)
     - YARA and Snort rules from IOCs collected by ESET.
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
