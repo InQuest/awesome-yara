@@ -38,7 +38,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Didier Stevens Rules](https://blog.didierstevens.com/2014/12/16/yara-rules/) - A couple rules published by Didier Stevens.
 * [ESET IOCs](https://github.com/eset/malware-ioc/) - YARA and Snort rules from IOCs collected by ESET.
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules) - YARA rules from Fidelis Cyber's IOC repo.
-* [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :fire: - Rules provided in Florian Roth's signature base repository
+* [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :fire: - Rules provided in Florian Roth's signature base repository.
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara) - Mostly filetype detection rules, from the EmersonElectricCo FSF project.
 * [GoDaddy Rules](https://github.com/godaddy/yara-rules) - Written for use with ProcFilter.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) - A collection of signatures from h3x2b.
@@ -64,7 +64,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf) - Modular, recursive file scanning solution.
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB) - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 * [Laika BOSS](https://github.com/lmco/laikaboss) - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose. ([whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf))
-* [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and YARA rule scanner
+* [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and YARA rule scanner.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [OCYara](https://github.com/bandrel/OCyara) - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scan pastebin.com with YARA rules.
@@ -75,7 +75,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail) - YARA scanner for IMAP feeds and saved streams.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based manager for YARA rules.
-* [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - YARA rule set coverage analyzer
+* [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - YARA rule set coverage analyzer.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap) - YARA scanner For IMAP feeds and saved streams.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - ICAP server with YARA scanner.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - Python-based extension that integrates a YARA scanner into Burp Suite.
