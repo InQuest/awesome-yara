@@ -99,6 +99,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf)
 * [Loki](https://github.com/Neo23x0/Loki)
     - Simple IOC and YARA rule scanner.
+* [Malice](https://malice.io/)
+    - An open source VirusTotal alternative, with YARA support.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
     - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [OCYara](https://github.com/bandrel/OCyara)
