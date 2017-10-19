@@ -104,7 +104,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB)
     - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 * [Laika BOSS](https://github.com/lmco/laikaboss)
-    - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose. ([whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf))
+    - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
+    - [Whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf)
 * [Loki](https://github.com/Neo23x0/Loki)
     - Simple IOC and YARA rule scanner.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
