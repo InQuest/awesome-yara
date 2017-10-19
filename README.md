@@ -36,7 +36,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - A collection of personal rules written by Brian Carter, mostly designed for VirusTotal hunting.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) :eyes:
     - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension (see next section).
-* [CDI Rules](https://github.com/CyberDefenses/CDI_yara) :sparkling:
+* [CDI Rules](https://github.com/CyberDefenses/CDI_yara) :sparkles:
     - A collection of YARA rules released by CyberDefenses for public use. Built from information in intelligence profiles, dossiers and file work. 
         - [CyberDefenses Blog](https://cyberdefenses.com/blog/)
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
