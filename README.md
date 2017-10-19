@@ -88,6 +88,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [CAPE: Config And Payload Extraction](https://github.com/ctxis/CAPE) :eyes:
     - CAPE is an extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
+* [ELAT](https://github.com/reed1713/ELAT)
+    - Event Log Analysis Tool that creates/uses YARA rules for Windows event log analysis.
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - Modular, recursive file scanning solution.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
