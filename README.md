@@ -4,6 +4,9 @@ A curated list of awesome [YARA](https://virustotal.github.io/yara/) rules, tool
 and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 and [awesome-php](https://github.com/ziadoz/awesome-php).
 
+> YARA is an ancronym for: YARA: Another Recursive Ancronym, or Yet Another Ridiculous Acronym. Pick your choice.
+> ~ [Victor M. Alvarez](https://twitter.com/plusvic/status/778983467627479040)
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome YARA](#awesome-yara)
