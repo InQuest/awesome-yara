@@ -15,6 +15,15 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Related Awesome Lists](#related-awesome-lists)
     - [Contributing](#contributing)
 
+## Legend
+
+| Icon | Meaning |
+|---|---|
+| :trophy: | Biggest collection |
+| :fire: | Actively maintained |
+| :gem: | Great content |
+| :sparkles: | Recently added |
+
 ## Rules
 
 * [0day1day Rules](https://github.com/0day1day/yarasigs) - A few signatures from various sources.
@@ -29,7 +38,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Didier Stevens Rules](https://blog.didierstevens.com/2014/12/16/yara-rules/) - A couple rules published by Didier Stevens.
 * [ESET IOCs](https://github.com/eset/malware-ioc/) - YARA and Snort rules from IOCs collected by ESET.
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules) - YARA rules from Fidelis Cyber's IOC repo.
-* [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) - Rules provided in Florian Roth's signature base repository
+* [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :fire: - Rules provided in Florian Roth's signature base repository
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara) - Mostly filetype detection rules, from the EmersonElectricCo FSF project.
 * [GoDaddy Rules](https://github.com/godaddy/yara-rules) - Written for use with ProcFilter.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) - A collection of signatures from h3x2b.
@@ -39,14 +48,14 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules) - A few dozen malware rules.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) - A few publicly released rules from NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) - Collected rules from various authors.
-* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) - Large collection of open source rules from various authors. (Largest we've seen so far...)
+* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :trophy: - Large collection of open source rules from various authors.
 * [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) - Miscellaneous YARA rules.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara) - A few malware rules published by SpiderLabs.
 * [Tenable Rules](https://github.com/tenable/yara-rules) - Small collection from Tenable Network Security.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara) - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) - A few signatures to possibly be included in x64dbg.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics) - Rules for finding files using magic headers.
-* [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) - Large collection of rules constantly updated by the community.
+* [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :fire: - Large collection of rules constantly updated by the community.
 
 ## Tools
 
