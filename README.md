@@ -24,8 +24,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Rules
 
 * [AlienVault Labs Rules](https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis)
-    - A collection of tools, signatures, and rules from the researchers at AlienVault Labs. Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
-        - [AlienVault Labs Blog](https://www.alienvault.com/blogs/labs-research)
+    - A collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://www.alienvault.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
 * [Apple OSX](https://gist.github.com/pedramamini/c586a151a978f971b70412ca4485c491)
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) :eyes: :sparkles: 
@@ -37,16 +36,13 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) :eyes:
     - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension (see next section).
 * [CDI Rules](https://github.com/CyberDefenses/CDI_yara) :sparkles:
-    - A collection of YARA rules released by CyberDefenses for public use. Built from information in intelligence profiles, dossiers and file work. 
-        - [CyberDefenses Blog](https://cyberdefenses.com/blog/)
+    - A collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work. 
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem: 
-    - A collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through his blog.
-        - [NVISO Labs Blog](https://blog.nviso.be/)
+    - A collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.be/).
 * [ESET IOCs](https://github.com/eset/malware-ioc/) :eyes:
-    - A collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval.
-        - [ESET WeLiveSecurity Blog](http://www.welivesecurity.com)
+    - A collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval. New IOCs are often mentioned on the [ESET WeLiveSecurity Blog](http://www.welivesecurity.com).
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
     - You can find a half dozen YARA rules in Fidelis Cyber's IOC repository. They update this repository on a roughly quarterly interval. Complete blog content is also available in this repository.
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
@@ -60,8 +56,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - A repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
 * [InQuest Rules](https://github.com/InQuest/yara-rules) :eyes:
-    - YARA rules published by InQuest researchers mostly geared towards threat hunting on Virus Total. Rules are updated as new samples are collected and novel pivots are discovered.
-        - [InQuest Blog](http://blog.inquest.net)
+    - YARA rules published by InQuest researchers mostly geared towards threat hunting on Virus Total. Rules are updated as new samples are collected and novel pivots are discovered. The [InQuest Blog](http://blog.inquest.net) will often discuss new findings.
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
     - Dozens of rules from the personal collection of Kevin Breen. This repository hasn't been updated since February of 2016.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
