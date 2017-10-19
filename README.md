@@ -153,6 +153,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [CVE PoC](https://github.com/qazbnm456/awesome-cve-poc)
 * [Forensics](https://github.com/Cugu/awesome-forensics)
 * [Hacking](https://github.com/carpedm20/awesome-hacking)
+* [HackwithGithub](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Honeypots](https://github.com/paralax/awesome-honeypots)
 * [Incident-Response](https://github.com/meirwah/awesome-incident-response)
 * [Infosec](https://github.com/onlurking/awesome-infosec)
