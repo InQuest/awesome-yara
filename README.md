@@ -23,12 +23,10 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ### Legend
 
-| Icon | Meaning |
-|---|---|
-| :trophy: | Biggest collection |
-| :fire: | Actively maintained |
-| :gem: | Great content |
-| :sparkles: | Recently added |
+* :trophy: - Biggest collection
+* :fire: - Actively maintained
+* :gem: - Great content
+* :sparkles: - Recently added
 
 ## Rules
 
