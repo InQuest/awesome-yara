@@ -38,10 +38,10 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules) - A few dozen malware rules.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) - A few publicly released rules from NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) - Collected rules from various authors.
-* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) - A large collection of open source rules from various authors. (Largest we've seen so far...)
+* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) - Large collection of open source rules from various authors. (Largest we've seen so far...)
 * [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) - Miscellaneous YARA rules.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara) - A few malware rules published by SpiderLabs.
-* [Tenable Rules](https://github.com/tenable/yara-rules) - A small collection from Tenable Network Security.
+* [Tenable Rules](https://github.com/tenable/yara-rules) - Small collection from Tenable Network Security.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara) - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) - A few signatures to possibly be included in x64dbg.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics) - Rules for finding files using magic headers.
@@ -49,30 +49,30 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tools
 
-* [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert) - BinaryAlert is an open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules. An alert will fire as soon as any match is found, giving an incident response team the ability to quickly contain the threat before it spreads.
+* [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert) - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more).
 * [File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf) - Modular, recursive file scanning solution.
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB) - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
-* [Laika BOSS](https://github.com/lmco/laikaboss) - Laika is an object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose. ([whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf))
-* [Loki](https://github.com/Neo23x0/Loki) - Loki is a simple IOC and YARA rule scanner
-* [MITRE MultiScanner](https://github.com/mitre/multiscanner) - MultiScanner is a file analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output. Tools can be custom built python scripts, web APIs, software running on another machine, etc.
-* [OCYara](https://github.com/bandrel/OCyara) - The OCyara module performs OCR (Optical Character Recognition) on image files and scans them for matches to YARA rules. OCyara also can process images embedded in PDF files.
+* [Laika BOSS](https://github.com/lmco/laikaboss) - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose. ([whitepaper](http://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf))
+* [Loki](https://github.com/Neo23x0/Loki) - Simple IOC and YARA rule scanner
+* [MITRE MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
+* [OCYara](https://github.com/bandrel/OCyara) - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scan pastebin.com with YARA rules.
 * [ProcFilter](https://github.com/godaddy/procfilter) - Helps create YARA signatures that protect Windows environments against a specific threat.
-* [stoQ](https://github.com/PUNCH-Cyber/stoq) - A modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
+* [stoQ](https://github.com/PUNCH-Cyber/stoq) - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
-* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - An all-in-one website to create and manage YARA rules.
+* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - All-in-one website to create and manage YARA rules.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator) - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail) - YARA scanner for IMAP feeds and saved streams.
-* [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for YARA Rules.
+* [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based manager for YARA rules.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - YARA rule set coverage analyzer
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap) - YARA scanner For IMAP feeds and saved streams.
-* [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - An ICAP server with YARA scanner.
-* [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a YARA scanner into Burp Suite. Yara-Scanner allows you perform on-demand YARA scans of websites within the Burp interface, based on custom YARA rules that you write or obtain.
+* [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - ICAP server with YARA scanner.
+* [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator) - Validates YARA rules and tries to repair the broken ones.
-* [yarGen](https://github.com/Neo23x0/yarGen) - A YARA rule generator for finding related samples and hunting.
-* [Yeti](https://github.com/yeti-platform/yeti) - Yeti is a platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
+* [yarGen](https://github.com/Neo23x0/yarGen) - YARA rule generator for finding related samples and hunting.
+* [Yeti](https://github.com/yeti-platform/yeti) - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend) - YARA integrated software to handle archive file data.
 
 ## People
