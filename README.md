@@ -20,7 +20,7 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [AlienVault Labs Rules](https://github.com/jaimeblasco/AlienvaultLabs/tree/master/malware_analysis) - Malware rules from AlienVault Labs.
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules) - Rules bundled into AirBnB's BinaryAlert tool.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules) - Intended to be used with the Burp Yara-Scanner extension.
-* [Brian Carter Rules](https://github.com/carterb/yararules) - Rules for Yara. Mostly for use with VirusTotal.
+* [Brian Carter Rules](https://github.com/carterb/yararules) - Rules for YARA. Mostly for use with VirusTotal.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension.
 * [CDI Rules](https://github.com/CyberDefenses/CDI_yara) - A few rules published by CyberDefenses.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures) - YARA signatures developed by Citizen Lab.
@@ -61,12 +61,12 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
 * [ProcFilter](https://github.com/godaddy/procfilter) - Helps create YARA signatures that protect Windows environments against a specific threat.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq) - A modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin) - Creates YARA signatures from executable code within malware.
-* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - An all-in-one website to create and manage Yara rules.
+* [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/) - An all-in-one website to create and manage YARA rules.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator) - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian) - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail) - YARA scanner for IMAP feeds and saved streams.
 * [YaraManager](https://github.com/kevthehermit/YaraManager) - Web based Manager for YARA Rules.
-* [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - Yara rule set coverage analyzer
+* [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer) - YARA rule set coverage analyzer
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap) - YARA scanner For IMAP feeds and saved streams.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara) - An ICAP server with YARA scanner.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner) - A Python-based extension that integrates a YARA scanner into Burp Suite. Yara-Scanner allows you perform on-demand YARA scans of websites within the Burp interface, based on custom YARA rules that you write or obtain.
