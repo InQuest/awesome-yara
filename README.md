@@ -10,7 +10,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 ### Contents
 
-- [Awesome YARA](#awesome-yara)
+- [Awesome YARA](#awesome-yara-)
     - [Rules](#rules)
     - [Tools](#tools)
     - [Services](#services)
