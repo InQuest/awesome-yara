@@ -67,6 +67,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
 * [Patrick Olsen Rules](https://github.com/sysforensics/YaraRules) :gem:
     - A small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
+* [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
+    - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
     - A repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
@@ -107,6 +109,8 @@ and [awesome-php](https://github.com/ziadoz/awesome-php).
     - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - Scan pastebin.com with YARA rules.
+* [QuickSand.io](http://quicksand.io/)
+    - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq)
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
