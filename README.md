@@ -102,6 +102,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - IDA pro plugin to find crypto constants (and more).
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
     - ProcFilter is a process filtering system for Windows with built-in YARA integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with Microsoft's ETW API, making results viewable in the Windows Event Log. Installation, activation, and removal can be done dynamically and does not require a reboot.
+* [go-yara](https://github.com/hillu/go-yara)
+    - Go bindings for YARA.
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB)
     - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 * [Laika BOSS](https://github.com/lmco/laikaboss)
