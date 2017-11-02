@@ -115,6 +115,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - An open source VirusTotal alternative, with YARA support.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
     - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
+* [node-yara](https://github.com/stephenwvickers/node-yara)
+    - YARA support for Node.js.
 * [OCYara](https://github.com/bandrel/OCyara)
     - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
