@@ -137,6 +137,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rule set coverage analyzer.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - YARA scanner For IMAP feeds and saved streams.
+* [yara-procdump-python](https://github.com/google/yara-procdump-python)
+    - Python extension to wrap the Yara process memory access API.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara)
     - ICAP server with YARA scanner.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)
