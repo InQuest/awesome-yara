@@ -135,6 +135,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - YARA scanner for IMAP feeds and saved streams.
+* [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
+    - Adds the awsome YARA pattern scanner to Windows right click menus.
 * [YaraManager](https://github.com/kevthehermit/YaraManager)
     - Web based manager for YARA rules.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
