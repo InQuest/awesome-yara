@@ -79,6 +79,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Small collection from Tenable Network Security.
+* [TjadaNel Rules](https://github.com/tjadanel/yara_repo)
+    - Small collection of malware rules.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
     - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs)
