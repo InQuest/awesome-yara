@@ -87,6 +87,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A few signatures to possibly be included in x64dbg.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - A collection of file type identfiying rules.
+* [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
+    - Rules to identify files containing juicy information like usernames, passwords etc.
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
     - Large collection of rules constantly updated by the community.
 
