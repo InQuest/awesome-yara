@@ -157,6 +157,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
     - Validates YARA rules and tries to repair the broken ones.
+* [yaraVT](https://github.com/deadbits/yaraVT)
+    - Scan files with Yara and send rule matches to VirusTotal reports as comments.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
 * [Yeti](https://github.com/yeti-platform/yeti)
