@@ -83,8 +83,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Small collection of malware rules.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
     - YARA rules for identifying anti-RE malware techniques.
-* [x64dbg Signatures](https://github.com/x64dbg/yarasigs)
-    - A few signatures to possibly be included in x64dbg.
+* [x64dbg Signatures](https://github.com/x64dbg/yarasigs) :gem:
+    - A collection of interesting packer, compiler, and crypto identification signatures.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - A collection of file type identfiying rules.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
