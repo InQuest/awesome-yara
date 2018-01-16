@@ -200,6 +200,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Reversing](https://github.com/fdivrp/awesome-reversing)
 * [Security](https://github.com/sbilly/awesome-security)
 * [Static Analysis](https://github.com/mre/awesome-static-analysis)
+* [Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## Contributing
