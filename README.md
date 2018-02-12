@@ -135,6 +135,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq)
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
+* [SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
+    - Microsoft WinDbg extension which includes the ability to use YARA rules to hunt processes in memory.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
     - Creates YARA signatures from executable code within malware.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
