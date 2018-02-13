@@ -141,6 +141,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Creates YARA signatures from executable code within malware.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
+* [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
+    - Plugins for x64dbg and IDAPython, respectively, that generate YARA rules from function blocks.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
     - Django web inerface for managing YARA rules.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
