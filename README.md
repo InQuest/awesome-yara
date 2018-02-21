@@ -124,10 +124,10 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Simple IOC and YARA rule scanner.
 * [Malice](https://malice.io/)
     - An open source VirusTotal alternative, with YARA support.
-* [MITRE MultiScanner](https://github.com/mitre/multiscanner)
-    - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [MISP Threat Sharing](https://www.github.com/MISP/MISP)
     - A threat intelligence platform including indicators, threat intelligence, malware sample and binaries. MISP includes support for sharing YARA signature, generating signature and validating these.
+* [MITRE MultiScanner](https://github.com/mitre/multiscanner)
+    - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [node-yara](https://github.com/stephenwvickers/node-yara)
     - YARA support for Node.js.
 * [OCYara](https://github.com/bandrel/OCyara)
