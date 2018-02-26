@@ -183,6 +183,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - All-in-one website to create and manage YARA rules.
 * [YaraRules Analyzer](https://analysis.yararules.com/)
     - Upload and run files against rulesets from the YaraRules Project.
+* [Yara Share](https://yara.adlice.com/)
+    - Free repository and online community for users to upload and share Yara rules
 
 ## People
 
