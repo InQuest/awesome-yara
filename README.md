@@ -28,25 +28,25 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 ## Rules
 
 * [AlienVault Labs Rules](https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis)
-    - A collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://www.alienvault.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
+    - Collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://www.alienvault.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
 * [Apple OSX](https://gist.github.com/pedramamini/c586a151a978f971b70412ca4485c491)
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
-* [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) :eyes: :sparkles: 
+* [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) :eyes: :sparkles:
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
-    - A collection of YARA rules intended to be used with the Burp Proxy through the Yara-Scanner extension. These rules focus mostly on non-exe malware typically delivered over HTTP including HTML, Java, Flash, Office, PDF, etc. Last updated in June of 2016.
+    - Collection of YARA rules intended to be used with the Burp Proxy through the Yara-Scanner extension. These rules focus mostly on non-exe malware typically delivered over HTTP including HTML, Java, Flash, Office, PDF, etc. Last updated in June of 2016.
 * [Brian Carter Rules](https://github.com/carterb/yararules) :sparkles:
-    - A collection of personal rules written by Brian Carter, mostly designed for VirusTotal hunting.
+    - Collection of personal rules written by Brian Carter, mostly designed for VirusTotal hunting.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) :eyes:
     - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension (see next section).
 * [CDI Rules](https://github.com/CyberDefenses/CDI_yara) :sparkles:
-    - A collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work. 
+    - Collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
-* [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem: 
-    - A collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.be/).
+* [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
+    - Collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.be/).
 * [ESET IOCs](https://github.com/eset/malware-ioc/) :eyes:
-    - A collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval. New IOCs are often mentioned on the [ESET WeLiveSecurity Blog](https://www.welivesecurity.com/).
+    - Collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval. New IOCs are often mentioned on the [ESET WeLiveSecurity Blog](https://www.welivesecurity.com/).
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
     - You can find a half dozen YARA rules in Fidelis Cyber's IOC repository. They update this repository on a roughly quarterly interval. Complete blog content is also available in this repository.
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
@@ -56,9 +56,9 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [GoDaddy ProcFilter Rules](https://github.com/godaddy/yara-rules)
     - A couple dozen rules written and released by GoDaddy for use with ProcFilter (see next section). Example rules include detection for packers, mimikatz, and specific malware.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
-    - A collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
+    - Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
-    - A repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
+    - Repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
 * [InQuest Rules](https://github.com/InQuest/yara-rules) :eyes:
     - YARA rules published by InQuest researchers mostly geared towards threat hunting on Virus Total. Rules are updated as new samples are collected and novel pivots are discovered. The [InQuest Blog](http://blog.inquest.net) will often discuss new findings.
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
@@ -66,18 +66,18 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
-    - A collection of topical from a variety of sources for the YARA component of the Malice.IO framework.
+    - Collection of topical from a variety of sources for the YARA component of the Malice.IO framework.
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
 * [MrThreat Rules](https://github.com/MrThreat/yararules)
     - Pubic repository of yara rules mainly used for osint and threat/counter intelligence.
 * [Patrick Olsen Rules](https://github.com/prolsen/YaraRules) :gem:
-    - A small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
+    - Small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
 
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
-    - A repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
+    - Repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Small collection from Tenable Network Security.
 * [TjadaNel Rules](https://github.com/tjadanel/yara_repo)
@@ -85,9 +85,9 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
     - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) :gem:
-    - A collection of interesting packer, compiler, and crypto identification signatures.
+    - Collection of interesting packer, compiler, and crypto identification signatures.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
-    - A collection of file type identfiying rules.
+    - Collection of file type identfiying rules.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
     - Rules to identify files containing juicy information like usernames, passwords etc.
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
@@ -98,7 +98,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [CAPE: Config And Payload Extraction](https://github.com/ctxis/CAPE) :eyes:
-    - CAPE is an extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
+    - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara) :sparkles:
     - The Canadian Communications Security Establishment (CSE) open sourced [AssemblyLine](https://www.cse-cst.gc.ca/en/assemblyline), a platform for analyzing malicious files. The component linked here provides an interface to YARA.
 * [ELAT](https://github.com/reed1713/ELAT)
@@ -123,9 +123,9 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Loki](https://github.com/Neo23x0/Loki)
     - Simple IOC and YARA rule scanner.
 * [Malice](https://malice.io/)
-    - An open source VirusTotal alternative, with YARA support.
+    - Open source VirusTotal alternative, with YARA support.
 * [MISP Threat Sharing](https://www.github.com/MISP/MISP)
-    - A threat intelligence platform including indicators, threat intelligence, malware sample and binaries. MISP includes support for sharing YARA signature, generating signature and validating these.
+    - Threat intelligence platform including indicators, threat intelligence, malware samples and binaries. Includes support for sharing, generating, and validating YARA signatures.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
     - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [node-yara](https://github.com/stephenwvickers/node-yara)
