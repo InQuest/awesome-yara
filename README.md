@@ -31,6 +31,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://www.alienvault.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
 * [Apple OSX](https://gist.github.com/pedramamini/c586a151a978f971b70412ca4485c491)
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
+* [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
+    - Custom rules from Brian Wallace used for bamfdetect, along with some rules from other sources.
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) :eyes: :sparkles:
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
@@ -97,6 +99,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
+* [bamfdetect](https://github.com/bwall/bamfdetect)
+    - Identifies and extracts information from bots and other malware.
 * [CAPE: Config And Payload Extraction](https://github.com/ctxis/CAPE) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara) :sparkles:
