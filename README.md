@@ -183,6 +183,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * [MalShare](https://malshare.com/)
     - Free malware repository providing researchers access to samples, malicous feeds, and YARA results.
+* [MalwareConfig](https://malwareconfig.com/)
+    - Extract IOCs from Remote Access Trojans.
 * [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/)
     - All-in-one website to create and manage YARA rules.
 * [YaraRules Analyzer](https://analysis.yararules.com/)
