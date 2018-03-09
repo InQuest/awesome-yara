@@ -121,6 +121,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 * [Invoke-Yara](https://github.com/secabstraction/Yara)
     - Powershell scripts to run YARA on remote machines.
+* [KLara](https://github.com/KasperskyLab/klara)
+    - Distributed system written in Python, allows researchers to scan one or more YARA rules over collections with samples.
 * [Laika BOSS](https://github.com/lmco/laikaboss)
     - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
     - [Whitepaper](https://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf)
