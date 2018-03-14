@@ -150,6 +150,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Microsoft WinDbg extension which includes the ability to use YARA rules to hunt processes in memory.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
     - Creates YARA signatures from executable code within malware.
+* [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
+    -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
