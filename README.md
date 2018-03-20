@@ -166,6 +166,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Web based manager for YARA rules.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - YARA rule set coverage analyzer.
+* [yara-parser](https://github.com/Northern-Lights/yara-parser)
+    - Tools for parsing rulesets using the exact grammar as YARA. Written in Go.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - YARA scanner For IMAP feeds and saved streams.
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
