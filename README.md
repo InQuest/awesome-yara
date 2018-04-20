@@ -121,6 +121,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - IDA Python scripts for generating YARA sigs from executable opcodes (.NET included).
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB)
     - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
+* [iocextract](https://github.com/InQuest/python-iocextract)
+    - Advanced Indicator of Compromise (IOC) extractor, with YARA rule extraction.
 * [Invoke-Yara](https://github.com/secabstraction/Yara)
     - Powershell scripts to run YARA on remote machines.
 * [KLara](https://github.com/KasperskyLab/klara)
