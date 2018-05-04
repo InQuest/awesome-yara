@@ -182,6 +182,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - ICAP server with YARA scanner.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)
     - Python-based extension that integrates a YARA scanner into Burp Suite.
+* [yarascanner](https://github.com/jheise/yarascanner)
+    - Golang-based web service to scan files with YARA rules.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
     - Validates YARA rules and tries to repair the broken ones.
 * [yaraVT](https://github.com/deadbits/yaraVT)
