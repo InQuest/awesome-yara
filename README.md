@@ -134,6 +134,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Simple IOC and YARA rule scanner.
 * [Malice](https://malice.io/)
     - Open source VirusTotal alternative, with YARA support.
+* [malscan](https://github.com/usualsuspect/malscan)
+    - Scan process memory for YARA matches and execute Python scripts if a match is found.
 * [MISP Threat Sharing](https://www.github.com/MISP/MISP)
     - Threat intelligence platform including indicators, threat intelligence, malware samples and binaries. Includes support for sharing, generating, and validating YARA signatures.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
