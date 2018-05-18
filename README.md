@@ -13,6 +13,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Rules](#rules)
 * [Tools](#tools)
 * [Services](#services)
+* [Syntax Highlighters](#syntax-highlighters)
 * [People](#people)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Contributing](#contributing)
@@ -198,7 +199,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [yextend](https://github.com/BayshoreNetworks/yextend)
     - YARA integrated software to handle archive file data.
 
-### Services
+## Services
 
 * [MalShare](https://malshare.com/)
     - Free malware repository providing researchers access to samples, malicous feeds, and YARA results.
@@ -210,6 +211,10 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Upload and run files against rulesets from the YaraRules Project.
 * [Yara Share](https://yara.adlice.com/)
     - Free repository and online community for users to upload and share Yara rules.
+
+## Syntax Highlighters
+
+
 
 ## People
 
