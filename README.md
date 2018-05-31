@@ -152,6 +152,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Tools for checking samples against Virus Total, including VT_RuleMGR, for managing threat hunting YARA rules.
 * [QuickSand.io](http://quicksand.io/)
     - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
+* [spyre](https://github.com/DCSO/spyre)
+    - Simple, self-contained YARA-based file IOC scanner.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq)
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
