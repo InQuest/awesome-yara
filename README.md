@@ -37,6 +37,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
     - Collection of YARA rules intended to be used with the Burp Proxy through the Yara-Scanner extension. These rules focus mostly on non-exe malware typically delivered over HTTP including HTML, Java, Flash, Office, PDF, etc. Last updated in June of 2016.
+* [BinSequencer](https://github.com/karttoon/binsequencer)
+    - Find a common pattern of bytes within a set of samples and generate a YARA rule from the identified pattern.
 * [Brian Carter Rules](https://github.com/carterb/yararules) :sparkles:
     - Collection of personal rules written by Brian Carter, mostly designed for VirusTotal hunting.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) :eyes:
