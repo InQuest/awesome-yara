@@ -134,8 +134,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Laika BOSS](https://github.com/lmco/laikaboss)
     - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
     - [Whitepaper](https://lockheedmartin.com/content/dam/lockheed/data/isgs/documents/LaikaBOSS%20Whitepaper.pdf)
-* [Loki](https://github.com/Neo23x0/Loki)
-    - Simple IOC and YARA rule scanner.
 * [Malice](https://malice.io/)
     - Open source VirusTotal alternative, with YARA support.
 * [malscan](https://github.com/usualsuspect/malscan)
@@ -146,6 +144,9 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
 * [mquery](https://github.com/CERT-Polska/mquery)
     - Web frontend for running blazingly fast YARA queries on large datasets.
+* Nextron Systems OSS and Commercial Tools (Florian Roth: @Neo23x0)
+    - [Loki](https://github.com/Neo23x0/Loki) IOC and YARA rule scanner implemented in Python. Open source and free.
+    - [SPARK Core](https://www.nextron-systems.com/spark-core/) IOC and YARA rule scanner implemented in Go. Closed source, free, but registration required.
 * [node-yara](https://github.com/stephenwvickers/node-yara)
     - YARA support for Node.js.
 * [OCYara](https://github.com/bandrel/OCyara)
