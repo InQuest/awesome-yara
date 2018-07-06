@@ -153,6 +153,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - Scan pastebin.com with YARA rules.
+* [plyara](https://github.com/plyara/plyara)
+    - Parse YARA rules with Python.
 * [Polichombr](https://github.com/ANSSI-FR/polichombr)
     - Collaborative malware analysis framework with YARA rule matching and other features.
 * [VirusTotalTools](https://github.com/silascutler/VirusTotalTools)
