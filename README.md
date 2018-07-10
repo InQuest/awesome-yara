@@ -117,6 +117,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Modular, recursive file scanning solution.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
+* [generic-parser](https://github.com/uppusaikiran/generic-parser)
+    - Parser with YARA support, to extract meta information, perform static analysis and detect macros within files.
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
     - ProcFilter is a process filtering system for Windows with built-in YARA integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with Microsoft's ETW API, making results viewable in the Windows Event Log. Installation, activation, and removal can be done dynamically and does not require a reboot.
 * [go-yara](https://github.com/hillu/go-yara)
