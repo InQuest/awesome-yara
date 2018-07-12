@@ -8,8 +8,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 [YARA](https://virustotal.github.io/yara/), the "pattern matching swiss knife for malware researchers (and everyone else)" is developed by [@plusvic](https://github.com/plusvic/) and [@VirusTotal](https://github.com/VirusTotal). View it on [GitHub](https://github.com/virustotal/yara).
 
-This list is maintained by [InQuest](https://inquest.net/).
-
 ### Contents
 
 * [Rules](#rules)
@@ -262,5 +260,8 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## Contributing
+
+This list is maintained by [InQuest](https://inquest.net/). Feel free to let us
+know about anything we're missing!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
