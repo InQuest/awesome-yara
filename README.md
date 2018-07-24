@@ -67,6 +67,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rules published by InQuest researchers mostly geared towards threat hunting on Virus Total. Rules are updated as new samples are collected and novel pivots are discovered. The [InQuest Blog](http://blog.inquest.net) will often discuss new findings.
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
     - Dozens of rules from the personal collection of Kevin Breen. This repository hasn't been updated since February of 2016.
+* [Koodous Community Rules](https://koodous.com/rulesets)
+    - Community-contributed rules for Android APK malware.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
@@ -103,6 +105,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
+* [androguard](https://github.com/Koodous/androguard-yara)
+    - YARA module that integrates APK analysis.
 * [bamfdetect](https://github.com/bwall/bamfdetect)
     - Identifies and extracts information from bots and other malware.
 * [CAPE: Config And Payload Extraction](https://github.com/ctxis/CAPE) :eyes:
@@ -214,6 +218,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 ## Services
 
+* [Koodous](https://koodous.com/)
+    - Collaborative platform for APK analysis, with community YARA rule repository and large APK sample dataset.
 * [MalShare](https://malshare.com/)
     - Free malware repository providing researchers access to samples, malicous feeds, and YARA results.
 * [MalwareConfig](https://malwareconfig.com/)
