@@ -213,6 +213,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Scan files with Yara and send rule matches to VirusTotal reports as comments.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
+* [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
+    - YARA rule generator for Android malware.
 * [Yeti](https://github.com/yeti-platform/yeti)
     - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend)
