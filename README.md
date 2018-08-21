@@ -224,6 +224,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 ## Services
 
+* [Hybrid Analysis YARA Search](https://www.hybrid-analysis.com/yara-search)
+    - YARA search / hunting from CrowdStrike / Hybrid Analysis, powered by Falcon MalQuery.
 * [Koodous](https://koodous.com/)
     - Collaborative platform for APK analysis, with community YARA rule repository and large APK sample dataset.
 * [MalShare](https://malshare.com/)
