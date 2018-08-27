@@ -184,7 +184,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
 * [Yara Finder](https://github.com/uppusaikiran/yara-finder)
-    - A simple tool to match files against various YARA rules to find indicators of suspicion.
+    - Web API and docker image for scanning files against YARA rules, built on @tylerha97's yara_scan.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
@@ -207,6 +207,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python extension to wrap the YARA process memory access API.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara)
     - ICAP server with YARA scanner.
+* [yara_scan](https://github.com/tylerha97/yara_scan)
+    - Extract zips, pull macros out of documents, and scan everything against YARA rules.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [yarascanner](https://github.com/jheise/yarascanner)
