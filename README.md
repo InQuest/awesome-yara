@@ -79,7 +79,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Pubic repository of yara rules mainly used for osint and threat/counter intelligence.
 * [Patrick Olsen Rules](https://github.com/prolsen/YaraRules) :gem:
     - Small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
-
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r)
