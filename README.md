@@ -183,6 +183,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Generate bulk YARA rules from YAML input.
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
+* [Yara Finder](https://github.com/uppusaikiran/yara-finder)
+    - A simple tool to match files against various YARA rules to find indicators of suspicion.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
@@ -221,7 +223,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend)
     - YARA integrated software to handle archive file data.
-* [Yara Finder](https://github.com/uppusaikiran/yara-finder) - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
 
 ## Services
 
