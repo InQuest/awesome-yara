@@ -221,6 +221,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend)
     - YARA integrated software to handle archive file data.
+* [Yara Finder](https://github.com/uppusaikiran/yara-finder) - A simple tool to yara match the file against various yara rules to find the indicators of suspicion.
 
 ## Services
 
