@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="128" src="./awesome-yara.png"  alt="Awesome YARA" title="Awesome YARA">
+</p>
+
 # Awesome YARA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python) and [awesome-php](https://github.com/ziadoz/awesome-php).
