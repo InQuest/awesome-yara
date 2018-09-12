@@ -77,6 +77,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
     - Collection of topical from a variety of sources for the YARA component of the Malice.IO framework.
+* [McAfee Advanced Threat Research IOCs](https://github.com/advanced-threat-research/IOCs)
+    - IOCs, including YARA rules, to accompany McAfee ATR's blog and other public posts.
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
 * [MrThreat Rules](https://github.com/MrThreat/yararules)
