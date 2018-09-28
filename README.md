@@ -73,6 +73,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Dozens of rules from the personal collection of Kevin Breen. This repository hasn't been updated since February of 2016.
 * [Koodous Community Rules](https://koodous.com/rulesets)
     - Community-contributed rules for Android APK malware.
+* [lw-yara](https://github.com/Hestat/lw-yara)
+    - Ruleset for scanning Linux servers for shells, spamming, phishing and other webserver baddies.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
