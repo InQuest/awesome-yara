@@ -228,6 +228,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Validates YARA rules and tries to repair the broken ones.
 * [yaraVT](https://github.com/deadbits/yaraVT)
     - Scan files with Yara and send rule matches to VirusTotal reports as comments.
+* [yara_zip_module](https://github.com/stoerchl/yara_zip_module)
+    - Search for strings inside a zip file.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
