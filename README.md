@@ -130,6 +130,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Modular, recursive file scanning solution.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
+* [Fnord](https://github.com/Neo23x0/Fnord)
+    - Pattern extractor for obfuscated code.
 * [generic-parser](https://github.com/uppusaikiran/generic-parser)
     - Parser with YARA support, to extract meta information, perform static analysis and detect macros within files.
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
