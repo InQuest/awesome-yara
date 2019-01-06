@@ -188,6 +188,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Simple, self-contained YARA-based file IOC scanner.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq)
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
+* [Strelka](https://github.com/target/strelka)
+    - Detection-Oriented File Analysis System built on Python3, ZeroMQ, and YARA, primarily used for threat detection/hunting and intelligence gathering.
 * [SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
     - Microsoft WinDbg extension which includes the ability to use YARA rules to hunt processes in memory.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
