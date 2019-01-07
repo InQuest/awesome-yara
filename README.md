@@ -228,6 +228,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang-based web service to scan files with YARA rules.
+* [yara_tools](https://github.com/matonis/yara_tools)
+    - Python bindings to author YARA rules using natural Python conventions.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
     - Validates YARA rules and tries to repair the broken ones.
 * [yaraVT](https://github.com/deadbits/yaraVT)
