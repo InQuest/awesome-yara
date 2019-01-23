@@ -144,6 +144,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - IDA Python scripts for generating YARA sigs from executable opcodes (.NET included).
 * [ida_yara](https://github.com/alexander-hanel/ida_yara)
     - Scan data within an IDB using YARA.
+* [ida-yara-processor](https://github.com/bnbdr/ida-yara-processor)
+    - IDA processor for compiled YARA rules.
 * [InQuest ThreatKB](https://github.com/InQuest/ThreatKB)
     - Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL).
 * [iocextract](https://github.com/InQuest/python-iocextract)
