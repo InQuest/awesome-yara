@@ -190,6 +190,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Given a string, create 255 xor encoded versions of that string as a YARA rule.
 * [spyre](https://github.com/DCSO/spyre)
     - Simple, self-contained YARA-based file IOC scanner.
+* [static_file_analysis](https://github.com/lprat/static_file_analysis)
+    - Analyze deeply embedded files (doc, pdf, exe, ...) with clamscan and YARA.
 * [stoQ](https://github.com/PUNCH-Cyber/stoq)
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [Strelka](https://github.com/target/strelka)
