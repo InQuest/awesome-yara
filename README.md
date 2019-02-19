@@ -107,6 +107,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Rules to identify files containing juicy information like usernames, passwords etc.
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
     - Large collection of rules constantly updated by the community.
+* [Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)
+    - Rules created for the Unprotect Project for detecting malware evasion techniques.
 
 ## Tools
 
