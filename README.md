@@ -167,6 +167,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Threat intelligence platform including indicators, threat intelligence, malware samples and binaries. Includes support for sharing, generating, and validating YARA signatures.
 * [MITRE MultiScanner](https://github.com/mitre/multiscanner)
     - File analysis framework that assists the user in evaluating a set of files by automatically running a suite of tools for the user and aggregating the output.
+* [mkYARA](https://github.com/fox-it/mkYARA)
+    - Generate YARA rules based on binary code.
 * [mquery](https://github.com/CERT-Polska/mquery)
     - Web frontend for running blazingly fast YARA queries on large datasets.
 * Nextron Systems OSS and Commercial Tools (Florian Roth: @Neo23x0)
