@@ -126,6 +126,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Framework for automating collection and processing of samples from VirusTotal, and executing commands based on YARA rule matches.
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara) :sparkles:
     - The Canadian Communications Security Establishment (CSE) open sourced [AssemblyLine](https://www.cse-cst.gc.ca/en/assemblyline), a platform for analyzing malicious files. The component linked here provides an interface to YARA.
+* [dnYara](https://github.com/airbus-cert/dnYara)
+    - A multi-platform .NET wrapper library for the native YARA library.
 * [ELAT](https://github.com/reed1713/ELAT)
     - Event Log Analysis Tool that creates/uses YARA rules for Windows event log analysis.
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
