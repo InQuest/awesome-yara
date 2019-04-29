@@ -234,6 +234,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python extension to wrap the YARA process memory access API.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara)
     - ICAP server with YARA scanner.
+* [yarasafe] (https://github.com/lucamassarelli/yarasafe)
+    - Automatic generation of function signature using machine learning.
 * [yara_scan](https://github.com/tylerha97/yara_scan)
     - Extract zips, pull macros out of documents, and scan everything against YARA rules.
 * [Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)
