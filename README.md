@@ -206,6 +206,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Microsoft WinDbg extension which includes the ability to use YARA rules to hunt processes in memory.
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor/)
     - Automatically extract and aggregate IOCs including YARA rules from many sources.
+* [Vxsig](https://github.com/google/vxsig)
+    - Automatically generate AV byte signatures from sets of similar binaries.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
     - Creates YARA signatures from executable code within malware.
 * [yaml2yara](https://github.com/nccgroup/yaml2yara)
