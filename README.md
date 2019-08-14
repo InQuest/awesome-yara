@@ -80,7 +80,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
     - Collection of topical from a variety of sources for the YARA component of the Malice.IO framework.
 * [Malpedia Auto Generated Rules](https://malpedia.caad.fkie.fraunhofer.de/api/get/yara/auto/zip) :sparkles:
-    - A zip file that all automatically generated, code-based rules created using Malpedia's YARA-Signator
+    - A zip file that contains all automatically generated, code-based rules created using Malpedia's YARA-Signator
 * [McAfee Advanced Threat Research IOCs](https://github.com/advanced-threat-research/IOCs)
     - IOCs, including YARA rules, to accompany McAfee ATR's blog and other public posts.
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
