@@ -37,17 +37,17 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
 * [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
     - Custom rules from Brian Wallace used for bamfdetect, along with some rules from other sources.
-* [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public) :sparkles:
+* [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public)
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
     - Collection of YARA rules intended to be used with the Burp Proxy through the Yara-Scanner extension. These rules focus mostly on non-exe malware typically delivered over HTTP including HTML, Java, Flash, Office, PDF, etc. Last updated in June of 2016.
 * [BinSequencer](https://github.com/karttoon/binsequencer)
     - Find a common pattern of bytes within a set of samples and generate a YARA rule from the identified pattern.
-* [Brian Carter Rules](https://github.com/carterb/yararules) :sparkles:
+* [Brian Carter Rules](https://github.com/carterb/yararules)
     - Collection of personal rules written by Brian Carter, mostly designed for VirusTotal hunting.
 * [CAPE Rules](https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE) :eyes:
     - Rules from various authors bundled with the Config And Payload Extraction Cuckoo Sandbox extension (see next section).
-* [CDI Rules](https://github.com/CyberDefenses/CDI_yara) :sparkles:
+* [CDI Rules](https://github.com/CyberDefenses/CDI_yara)
     - Collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
@@ -124,7 +124,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
 * [CrowdStrike Feed Management System](https://github.com/CrowdStrike/CrowdFMS)
     - Framework for automating collection and processing of samples from VirusTotal, and executing commands based on YARA rule matches.
-* [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara) :sparkles:
+* [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara)
     - The Canadian Communications Security Establishment (CSE) open sourced [AssemblyLine](https://www.cse-cst.gc.ca/en/assemblyline), a platform for analyzing malicious files. The component linked here provides an interface to YARA.
 * [dnYara](https://github.com/airbus-cert/dnYara)
     - A multi-platform .NET wrapper library for the native YARA library.
@@ -262,6 +262,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Platform meant to organize observables, indicators of compromise, TTPs, and knowledge on threats in a single, unified repository.
 * [yextend](https://github.com/BayshoreNetworks/yextend)
     - YARA integrated software to handle archive file data.
+* [yaraZeekAlert](https://github.com/SCILabsMX/yaraZeekAlert) :sparkles:
+    - Scans files with YARA rules and send email alerts which include network context of the file transfer and attaches the suspicious file if it is less than 10 MB.
 
 ## Services
 
