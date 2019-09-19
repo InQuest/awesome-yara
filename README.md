@@ -51,6 +51,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
+* [ConventionEngine Rules](https://github.com/stvemillertime/ConventionEngine)
+    - A collection of Yara rules looking for PEs with PDB paths that have unique, unusual, or overtly malicious-looking keywords, terms, or other features.
 * [Deadbits Rules](https://github.com/deadbits/yara-rules) :eyes:
     - A collection of YARA rules made public by [Adam Swanda](https://www.deadbits.org/), Splunk's Principal Threat Intel. Analyst, from his own recent malware research.
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
