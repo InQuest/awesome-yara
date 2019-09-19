@@ -63,6 +63,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - You can find a half dozen YARA rules in Fidelis Cyber's IOC repository. They update this repository on a roughly quarterly interval. Complete blog content is also available in this repository.
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
     - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false potives / negatives.
+* [Florian Roth's IDDQD Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
+    - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code. 
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara)
     - Mostly filetype detection rules, from the EmersonElectricCo FSF project (see next section).
 * [GoDaddy ProcFilter Rules](https://github.com/godaddy/yara-rules)
