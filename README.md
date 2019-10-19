@@ -21,6 +21,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [People](#people)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Contributing](#contributing)
+* [Just for Fun](http://yaramate.com)
 
 ### Legend
 
