@@ -27,7 +27,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * :eyes: - Actively maintained, a repository worth watching.
 * :gem: - Novel, interesting, educational, or otherwise stand-out content.
-* :sparkles: - Recently released, shiny new toys.
+* :sparkles: - Added in the past 6 months, shiny new toys.
 * :trophy: - The biggest collection award, awarded to a single repo.
 
 ## Rules
@@ -52,7 +52,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Collection of YARA rules released by [CyberDefenses](https://cyberdefenses.com/blog/) for public use. Built from information in intelligence profiles, dossiers and file work.
 * [Citizen Lab Malware Signatures](https://github.com/citizenlab/malware-signatures)
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
-* [ConventionEngine Rules](https://github.com/stvemillertime/ConventionEngine)
+* [ConventionEngine Rules](https://github.com/stvemillertime/ConventionEngine) :sparkles:
     - A collection of Yara rules looking for PEs with PDB paths that have unique, unusual, or overtly malicious-looking keywords, terms, or other features.
 * [Deadbits Rules](https://github.com/deadbits/yara-rules) :eyes:
     - A collection of YARA rules made public by [Adam Swanda](https://www.deadbits.org/), Splunk's Principal Threat Intel. Analyst, from his own recent malware research.
@@ -76,6 +76,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
 * [InQuest Rules](https://github.com/InQuest/yara-rules) :eyes:
     - YARA rules published by InQuest researchers mostly geared towards threat hunting on Virus Total. Rules are updated as new samples are collected and novel pivots are discovered. The [InQuest Blog](http://blog.inquest.net) will often discuss new findings.
+* [jeFF0Falltrades Rules](https://github.com/jeFF0Falltrades/YARA-Signatures) :sparkles:
+    - A collection of YARA signatures for various malware families.
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
     - Dozens of rules from the personal collection of Kevin Breen. This repository hasn't been updated since February of 2016.
 * [Koodous Community Rules](https://koodous.com/rulesets)
@@ -217,7 +219,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Automatically extract and aggregate IOCs including YARA rules from many sources.
 * [UXProtect](https://digitasecurity.com/uxprotect/)
     - The missing UI to Apple's built-in XProtect YARA signatures. Enumerate signatures, scan files, and more.
-* [Vxsig](https://github.com/google/vxsig)
+* [Vxsig](https://github.com/google/vxsig) :sparkles:
     - Automatically generate AV byte signatures from sets of similar binaries.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
     - Creates YARA signatures from executable code within malware.
