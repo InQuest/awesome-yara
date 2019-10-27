@@ -241,6 +241,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Adds the awsome YARA pattern scanner to Windows right click menus.
 * [YaraManager](https://github.com/kevthehermit/YaraManager)
     - Web based manager for YARA rules.
+* [yaramod](https://github.com/avast/yaramod)
+    - A library that provides parsing of YARA rules into AST and a C++ programming interface to build new YARA rulesets.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - YARA rule set coverage analyzer.
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
