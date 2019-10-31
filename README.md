@@ -255,6 +255,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python extension to wrap the YARA process memory access API.
 * [yara-signator](https://github.com/fxb-cocacoding/yara-signator) :sparkles:
     - Automatic YARA rule generation for Malpedia
+* [YARA-sort](https://github.com/horsicq/YARA-sort)
+    - Creating collection of files.
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara)
     - ICAP server with YARA scanner.
 * [yarasafe](https://github.com/lucamassarelli/yarasafe)
