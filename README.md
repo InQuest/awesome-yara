@@ -256,7 +256,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [yara-signator](https://github.com/fxb-cocacoding/yara-signator) :sparkles:
     - Automatic YARA rule generation for Malpedia
 * [YARA-sort](https://github.com/horsicq/YARA-sort)
-    - Creating collection of files.
+    - Aggregate files into collections basd on YARA rules. [blog](https://n10info.blogspot.com/2019/10/nfd-sort.html)
 * [Yara Python ICAP Server](https://github.com/RamadhanAmizudin/python-icap-yara)
     - ICAP server with YARA scanner.
 * [yarasafe](https://github.com/lucamassarelli/yarasafe)
