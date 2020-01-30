@@ -104,6 +104,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
+* [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
+    - A repository of Yara rules created automatically as translations of machine learning models. Each directory will have a rule and accompanying metadata: hashes of files used in training, and an accuracy diagram (a ROC curve).
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
     - Repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
