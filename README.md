@@ -104,8 +104,10 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
-* [rastrea2r](https://github.com/rastrea2r/rastrea2r)
+* [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
+* [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
+    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses. 
 * [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
     - A repository of Yara rules created automatically as translations of machine learning models. Each directory will have a rule and accompanying metadata: hashes of files used in training, and an accuracy diagram (a ROC curve).
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
@@ -296,7 +298,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * [Hybrid Analysis YARA Search](https://www.hybrid-analysis.com/yara-search)
     - YARA search / hunting from CrowdStrike / Hybrid Analysis, powered by Falcon MalQuery.
-* [InQuest Labs](https://labs.inquest.net) :sparkles:
+* [InQuest Labs](https://labs.inquest.net) :sparkles: :gem:
     -  See the YARA section for helper routines to convert regular expressions to match on base64 encoded strings, conver strings to sequences of uint() lookups, and more.
 * [Koodous](https://koodous.com/)
     - Collaborative platform for APK analysis, with community YARA rule repository and large APK sample dataset.
