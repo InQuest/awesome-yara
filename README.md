@@ -215,7 +215,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
 * [shotgunyara](https://github.com/darienhuss/shotgunyara)
     - Given a string, create 255 xor encoded versions of that string as a YARA rule.
-* [spyre](https://github.com/DCSO/spyre)
+* [spyre](https://github.com/spyre-project/spyre)
     - Simple, self-contained YARA-based file IOC scanner.
 * [static_file_analysis](https://github.com/lprat/static_file_analysis)
     - Analyze deeply embedded files (doc, pdf, exe, ...) with clamscan and YARA.
