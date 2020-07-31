@@ -38,6 +38,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
 * [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
     - Custom rules from Brian Wallace used for bamfdetect, along with some rules from other sources.
+* [bartblaze YARA rules](https://github.com/bartblaze/Yara-rules)
+    - Collection of personal YARA rules
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public)
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
