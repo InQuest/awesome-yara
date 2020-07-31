@@ -38,6 +38,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
 * [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
     - Custom rules from Brian Wallace used for bamfdetect, along with some rules from other sources.
+* [bartblaze YARA rules](https://github.com/bartblaze/Yara-rules)
+    - Collection of personal YARA rules
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public)
     - A couple dozen rules written and released by AirBnB as part of their BinaryAlert tool (see next section). Detection for hack tools, malware, and ransomware across Linux, Window, and OS X. This is a new and active project.
 * [Burp YARA Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
@@ -64,6 +66,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false potives / negatives.
 * [Florian Roth's IDDQD Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
     - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code. 
+* [Franke Boldewin Rules](https://github.com/fboldewin/YARA-rules)
+    - A collection of YARA Rules from [@r3c0nst](https://twitter.com/@r3c0nst).
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara)
     - Mostly filetype detection rules, from the EmersonElectricCo FSF project (see next section).
 * [GoDaddy ProcFilter Rules](https://github.com/godaddy/yara-rules)
@@ -98,9 +102,11 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
-* [rastrea2r](https://github.com/rastrea2r/rastrea2r)
+* [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
-* [Sophos AI YaraML Rules](https://github.com/sophos-ai/yaraml_rules)
+* [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
+    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses. 
+* [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
     - A repository of Yara rules created automatically as translations of machine learning models. Each directory will have a rule and accompanying metadata: hashes of files used in training, and an accuracy diagram (a ROC curve).
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
     - Repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
@@ -174,6 +180,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Laika BOSS](https://github.com/lmco/laikaboss)
     - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
     - [Whitepaper](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
+* [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
+    - MalConfScan is a Volatility plugin extracts configuration data of known malware. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 * [Malice](https://malice.io/)
     - Open source VirusTotal alternative, with YARA support.
 * [malscan](https://github.com/usualsuspect/malscan)
@@ -207,7 +215,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
 * [shotgunyara](https://github.com/darienhuss/shotgunyara)
     - Given a string, create 255 xor encoded versions of that string as a YARA rule.
-* [spyre](https://github.com/DCSO/spyre)
+* [spyre](https://github.com/spyre-project/spyre)
     - Simple, self-contained YARA-based file IOC scanner.
 * [static_file_analysis](https://github.com/lprat/static_file_analysis)
     - Analyze deeply embedded files (doc, pdf, exe, ...) with clamscan and YARA.
@@ -288,7 +296,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * [Hybrid Analysis YARA Search](https://www.hybrid-analysis.com/yara-search)
     - YARA search / hunting from CrowdStrike / Hybrid Analysis, powered by Falcon MalQuery.
-* [InQuest Labs](https://labs.inquest.net) :sparkles:
+* [InQuest Labs](https://labs.inquest.net) :sparkles: :gem:
     -  See the YARA section for helper routines to convert regular expressions to match on base64 encoded strings, conver strings to sequences of uint() lookups, and more.
 * [Koodous](https://koodous.com/)
     - Collaborative platform for APK analysis, with community YARA rule repository and large APK sample dataset.
