@@ -229,6 +229,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Automatically extract and aggregate IOCs including YARA rules from many sources.
 * [UXProtect](https://digitasecurity.com/uxprotect/)
     - The missing UI to Apple's built-in XProtect YARA signatures. Enumerate signatures, scan files, and more.
+* [VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen)
+    - Yara rule generator using VirusTotal code similarity feature `code-similar-to:` written by [@arieljt](https://twitter.com/arieljt).
 * [Vxsig](https://github.com/google/vxsig) :sparkles:
     - Automatically generate AV byte signatures from sets of similar binaries.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
