@@ -211,6 +211,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Parse YARA rules with Python.
 * [Polichombr](https://github.com/ANSSI-FR/polichombr)
     - Collaborative malware analysis framework with YARA rule matching and other features.
+* [PwC Cyber Threat Operations rtfsig](https://github.com/PwCUK-CTO/rtfsig)
+    - This tool is designed to make it easy to signature potentially unique parts of RTF files.
 * [VirusTotalTools](https://github.com/silascutler/VirusTotalTools)
     - Tools for checking samples against Virus Total, including VT_RuleMGR, for managing threat hunting YARA rules.
 * [QuickSand.io](http://quicksand.io/)
