@@ -184,8 +184,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - [Whitepaper](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - MalConfScan is a Volatility plugin extracts configuration data of known malware. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
-* [Malice](https://malice.io/)
-    - Open source VirusTotal alternative, with YARA support.
 * [malscan](https://github.com/usualsuspect/malscan)
     - Scan process memory for YARA matches and execute Python scripts if a match is found.
 * [MISP Threat Sharing](https://github.com/MISP/MISP)
