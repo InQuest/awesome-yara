@@ -289,6 +289,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Search for strings inside a zip file.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
+* [yaya](https://github.com/EFForg/yaya)
+    - Automatically curate open source yara rules and run scans.    
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
     - YARA rule generator for Android malware.
 * [Yeti](https://github.com/yeti-platform/yeti)
