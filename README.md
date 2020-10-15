@@ -141,6 +141,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Generate YARA rules to match terms against base64-encoded data.
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
+* [CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)
+    - YARA rule metadata specification and validation utility.
 * [clara](https://github.com/abhinavbom/clara) :sparkles:
     - Serverless, real-time, ClamAV+Yara scanning for your S3 Buckets.
 * [CrowdStrike Feed Management System](https://github.com/CrowdStrike/CrowdFMS)
