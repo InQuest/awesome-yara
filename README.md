@@ -167,6 +167,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - ProcFilter is a process filtering system for Windows with built-in YARA integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with Microsoft's ETW API, making results viewable in the Windows Event Log. Installation, activation, and removal can be done dynamically and does not require a reboot.
 * [go-yara](https://github.com/hillu/go-yara)
     - Go bindings for YARA.
+* [halogen](https://github.com/target/halogen)
+    - Halogen is a tool to automate the creation of yara rules against image files embedded within a malicious document.
 * [Hyara](https://github.com/hyuunnn/Hyara)
     - IDAPro plugin providing easy creation of YARA rules for ASCII & hex strings between a given start and end address.
 * [IDA_scripts](https://github.com/swackhamer/IDA_scripts)
