@@ -249,6 +249,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Creates YARA signatures from executable code within malware.
 * [yaml2yara](https://github.com/nccgroup/yaml2yara)
     - Generate bulk YARA rules from YAML input.
+* [YARA-CI](https://yara-ci.cloud.virustotal.com/) :sparkles:
+    - YARA-CI helps you to keep your YARA rules in good shape. It can be integrated into any GitHub repository containing YARA rules and it will run automated tests every time you make some change.
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
 * [Yara Finder](https://github.com/uppusaikiran/yara-finder)
