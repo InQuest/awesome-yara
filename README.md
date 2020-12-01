@@ -116,6 +116,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A repository of Yara rules created automatically as translations of machine learning models. Each directory will have a rule and accompanying metadata: hashes of files used in training, and an accuracy diagram (a ROC curve).
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
     - Repository of tools and scripts related to malware analysis from the researchers at SpiderLabs. There's only three YARA rules here and the last update was back in 2015, but worth exploring.
+* [StrangeRealIntel's Daily IOCs](https://github.com/StrangerealIntel/DailyIOC) :gem: :sparkes: :eyes:
+    - Regularly updated YARA rules covering a variety of fresh threats.
 * [t4d's PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)
     - This repository, dedicated to Phishing Kits zip files YARA rules, is based on zip raw format analysis to find directories and files names, you don't need yara-extend there.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
