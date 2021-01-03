@@ -249,6 +249,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Automatically generate AV byte signatures from sets of similar binaries.
 * [yabin](https://github.com/AlienVault-OTX/yabin)
     - Creates YARA signatures from executable code within malware.
+* [YAIDS](https://github.com/wrayjustin/yaids) :gem: :sparkles:
+    - YAIDS is a Multi-Threaded Intrusion Detection System using Yara. YAIDS supports all valid Yara rules (including modules) and any PCAP compatible data stream (Network, USB, Bluetooth, etc.).
 * [yaml2yara](https://github.com/nccgroup/yaml2yara)
     - Generate bulk YARA rules from YAML input.
 * [YARA-CI](https://yara-ci.cloud.virustotal.com/) :sparkles:
