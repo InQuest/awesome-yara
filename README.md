@@ -176,7 +176,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [halogen](https://github.com/target/halogen)
     - Halogen is a tool to automate the creation of yara rules against image files embedded within a malicious document.
 * [Hyara](https://github.com/hyuunnn/Hyara)
-    - IDAPro plugin providing easy creation of YARA rules for ASCII & hex strings between a given start and end address.
+    - IDA Pro, Cutter, and BinaryNinja plugin that provides easy creation of YARA rules for ASCII & hex strings between a given start and end address.
 * [IDA_scripts](https://github.com/swackhamer/IDA_scripts)
     - IDA Python scripts for generating YARA sigs from executable opcodes (.NET included).
 * [ida_yara](https://github.com/alexander-hanel/ida_yara)
