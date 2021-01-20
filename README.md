@@ -66,6 +66,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false potives / negatives.
 * [Florian Roth's IDDQD Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
     - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code. 
+* [f0wl yara_rules](https://github.com/f0wl/yara_rules)
+    - A collection of Yara rules from https://dissectingmalwa.re/ blog posts.
 * [Franke Boldewin Rules](https://github.com/fboldewin/YARA-rules)
     - A collection of YARA Rules from [@r3c0nst](https://twitter.com/@r3c0nst).
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara)
@@ -128,6 +130,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) :gem:
     - Collection of interesting packer, compiler, and crypto identification signatures.
+* [yaids](https://github.com/wrayjustin/yaids)
+    - Yara-Based IDS: Yara as an Intrusion Detection System / Yet Another Intrusion Detection System.
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - Collection of file type identfiying rules.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
@@ -263,6 +267,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Plugins for x64dbg and IDAPython, respectively, that generate YARA rules from function blocks.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
     - Django web inerface for managing YARA rules.
+* [yara-java](https://github.com/p8a/yara-java)
+    - Java bindings for YARA.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - YARA scanner for IMAP feeds and saved streams.
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
@@ -303,6 +309,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - IDAPython plugin for gerenating YARA rules from x86/x86-64 code.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
+* [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
+    - A wrapper around the yara-python project the providing multiple capabilities.    
 * [yaya](https://github.com/EFForg/yaya)
     - Automatically curate open source yara rules and run scans.
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
