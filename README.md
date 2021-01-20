@@ -130,8 +130,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rules for identifying anti-RE malware techniques.
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) :gem:
     - Collection of interesting packer, compiler, and crypto identification signatures.
-* [yaids](https://github.com/wrayjustin/yaids)
-    - Yara-Based IDS: Yara as an Intrusion Detection System / Yet Another Intrusion Detection System.
+* [YAIDS](https://github.com/wrayjustin/yaids) :gem: :sparkles:
+    - YAIDS is a Multi-Threaded Intrusion Detection System using Yara. YAIDS supports all valid Yara rules (including modules) and any PCAP compatible data stream (Network, USB, Bluetooth, etc.).
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - Collection of file type identfiying rules.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
