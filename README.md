@@ -116,6 +116,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
 * [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
     - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses. 
+* [Securitymagic's YARA Rules](https://github.com/securitymagic/yara)
+    - YARA rules for a variety of threats.
 * [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
     - A repository of Yara rules created automatically as translations of machine learning models. Each directory will have a rule and accompanying metadata: hashes of files used in training, and an accuracy diagram (a ROC curve).
 * [SpiderLabs Rules](https://github.com/SpiderLabs/malware-analysis/tree/master/Yara)
