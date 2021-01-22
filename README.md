@@ -291,6 +291,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A library that provides parsing of YARA rules into AST and a C++ programming interface to build new YARA rulesets.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - YARA rule set coverage analyzer.
+* [yara-ocaml](https://github.com/XVilka/yara-ocaml)
+    - OCaml bindings for YARA
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
     - Tools for parsing rulesets using the exact grammar as YARA. Written in Go.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
