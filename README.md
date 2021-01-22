@@ -225,6 +225,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - [THOR Lite](https://www.nextron-systems.com/thor-lite/) IOC and YARA rule scanner implemented in Go. Closed source, free, but registration required.
 * [node-yara](https://github.com/nospaceships/node-yara)
     - YARA support for Node.js.
+* [ocaml-yara](https://github.com/elastic/ocaml-yara)
+    - OCaml bindings to libyara
 * [OCYara](https://github.com/bandrel/OCyara)
     - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
@@ -295,6 +297,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA scanner For IMAP feeds and saved streams.
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
     - Python extension to wrap the YARA process memory access API.
+* [yara-rust](https://github.com/Hugal31/yara-rust)
+    - Rust bindings for VirusTotal/Yara
 * [yara-signator](https://github.com/fxb-cocacoding/yara-signator) :sparkles:
     - Automatic YARA rule generation for Malpedia
 * [YARA-sort](https://github.com/horsicq/YARA-sort)
