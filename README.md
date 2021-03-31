@@ -151,6 +151,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [androguard](https://github.com/Koodous/androguard-yara)
     - YARA module that integrates APK analysis.
+* [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
+    - Automated Yara Rule generation using Biclustering
 * [bamfdetect](https://github.com/bwall/bamfdetect)
     - Identifies and extracts information from bots and other malware.
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
@@ -197,11 +199,15 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Advanced Indicator of Compromise (IOC) extractor, with YARA rule extraction.
 * [Invoke-Yara](https://github.com/secabstraction/Yara)
     - Powershell scripts to run YARA on remote machines.
+* [java2yara](https://github.com/fxb-cocacoding/java2yara)
+    - A minimal library to generate YARA rules from JAVA
 * [KLara](https://github.com/KasperskyLab/klara)
     - Distributed system written in Python, allows researchers to scan one or more YARA rules over collections with samples.
 * [Laika BOSS](https://github.com/lmco/laikaboss)
     - Object scanner and intrusion detection system that strives to achieve the following goals: Scalable, Flexible, Verbose.
     - [Whitepaper](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
+* [libyara.NET](https://github.com/microsoft/libyara.NET)
+    - .NET wrapper for libyara built in C++ CLI used to easily incorporate yara into .NET projects
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - MalConfScan is a Volatility plugin extracts configuration data of known malware. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 * [malscan](https://github.com/usualsuspect/malscan)
@@ -219,6 +225,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - [THOR Lite](https://www.nextron-systems.com/thor-lite/) IOC and YARA rule scanner implemented in Go. Closed source, free, but registration required.
 * [node-yara](https://github.com/nospaceships/node-yara)
     - YARA support for Node.js.
+* [ocaml-yara](https://github.com/elastic/ocaml-yara)
+    - OCaml bindings to libyara
 * [OCYara](https://github.com/bandrel/OCyara)
     - Performs OCR on image files and scans them for matches to YARA rules.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
@@ -285,12 +293,16 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A library that provides parsing of YARA rules into AST and a C++ programming interface to build new YARA rulesets.
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - YARA rule set coverage analyzer.
+* [yara-ocaml](https://github.com/XVilka/yara-ocaml)
+    - OCaml bindings for YARA
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
     - Tools for parsing rulesets using the exact grammar as YARA. Written in Go.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - YARA scanner For IMAP feeds and saved streams.
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
     - Python extension to wrap the YARA process memory access API.
+* [yara-rust](https://github.com/Hugal31/yara-rust)
+    - Rust bindings for VirusTotal/Yara
 * [yara-signator](https://github.com/fxb-cocacoding/yara-signator) :sparkles:
     - Automatic YARA rule generation for Malpedia
 * [YARA-sort](https://github.com/horsicq/YARA-sort)
@@ -303,6 +315,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang-based web service to scan files with YARA rules.
+* [YaraSharp](https://github.com/stellarbear/YaraSharp)
+    - C# wrapper around the Yara pattern matching library
 * [yara_tools](https://github.com/matonis/yara_tools)
     - Python bindings to author YARA rules using natural Python conventions.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
@@ -351,7 +365,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * Emacs: [yara-mode](https://github.com/binjo/yara-mode)
 * GTK-based editors, like gedit and xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
-* Vim: [vim-yara](https://github.com/yaunj/vim-yara)
+* Vim: [vim-yara](https://github.com/yaunj/vim-yara), [vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)
 * Visual Studio Code: [textmate-yara](https://github.com/infosec-intern/textmate-yara)
 
 ## People
