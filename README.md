@@ -151,8 +151,6 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [androguard](https://github.com/Koodous/androguard-yara)
     - YARA module that integrates APK analysis.
-* [Audit Node Modules With YARA Rules](https://github.com/rpgeeganage/audit-node-modules-with-yara)
-    - Run a given set of YARA rules against the given node_module folder
 * [bamfdetect](https://github.com/bwall/bamfdetect)
     - Identifies and extracts information from bots and other malware.
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
