@@ -350,6 +350,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 ## Syntax Highlighters
 
 * Atom: [language-yara](https://github.com/blacktop/language-yara)
+* Emacs: [yara-mode](https://github.com/binjo/yara-mode)
 * GTK-based editors, like gedit and xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
 * Vim: [vim-yara](https://github.com/yaunj/vim-yara)
