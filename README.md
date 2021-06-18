@@ -27,7 +27,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 * :eyes: - Actively maintained, a repository worth watching.
 * :gem: - Novel, interesting, educational, or otherwise stand-out content.
-* :sparkles: - Added in the past 6 months, shiny new toys.
+* :sparkles: - Added more recently, shiny new toys.
 * :trophy: - The biggest collection award, awarded to a single repo.
 
 ## Rules
@@ -255,6 +255,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Modular and highly customizable framework for the creation of data sets from multiple disparate data sources.
 * [Strelka](https://github.com/target/strelka)
     - Detection-Oriented File Analysis System built on Python3, ZeroMQ, and YARA, primarily used for threat detection/hunting and intelligence gathering.
+* [Sysmon EDR](https://github.com/ion-storm/sysmon-edr) :sparkles:
+    - YARA scanning, process killing, network blocking, and more.
 * [SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
     - Microsoft WinDbg extension which includes the ability to use YARA rules to hunt processes in memory.
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor/)
