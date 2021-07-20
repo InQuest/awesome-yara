@@ -370,7 +370,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * GTK-based editors, like gedit and xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
 * Vim: [vim-yara](https://github.com/yaunj/vim-yara), [vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)
-* Visual Studio Code: [textmate-yara](https://github.com/infosec-intern/textmate-yara)
+* Visual Studio Code: [vscode-yara](https://github.com/infosec-intern/vscode-yara)
 
 ## People
 
