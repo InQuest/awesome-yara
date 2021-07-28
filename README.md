@@ -345,6 +345,10 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA integrated software to handle archive file data.
 * [yaraZeekAlert](https://github.com/SCILabsMX/yaraZeekAlert) :sparkles:
     - Scans files with YARA rules and send email alerts which include network context of the file transfer and attaches the suspicious file if it is less than 10 MB.
+* [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
+    - Parsing tool for [Yara Scan Service](https://riskmitigation.ch/yara-scan/)'s JSON output file.
+* [statiStrings](https://github.com/Sh3llyR/statiStrings)
+    - Strings statistics calculator for YARA rules.
 
 ## Services
 
@@ -362,6 +366,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - All-in-one website to create and manage YARA rules.
 * [Yara Share](https://yara.adlice.com/)
     - Free repository and online community for users to upload and share Yara rules.
+* [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
+    - A simple service to test your Yara rules against a large set of malicious and identified files.
 
 ## Syntax Highlighters
 
