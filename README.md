@@ -165,6 +165,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rule metadata specification and validation utility.
 * [clara](https://github.com/abhinavbom/clara) :sparkles:
     - Serverless, real-time, ClamAV+Yara scanning for your S3 Buckets.
+* [Cloudina Security Hawk](https://github.com/cloudina/hawk) :sparkles:
+    - Multi Cloud antivirus scanning API based on CLAMAV and YARA for AWS S3, AZURE Blob Storage, GCP Cloud Storage.
 * [CrowdStrike Feed Management System](https://github.com/CrowdStrike/CrowdFMS)
     - Framework for automating collection and processing of samples from VirusTotal, and executing commands based on YARA rule matches.
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara)
