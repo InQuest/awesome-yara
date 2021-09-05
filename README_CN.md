@@ -150,6 +150,10 @@
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
 * [androguard](https://github.com/Koodous/androguard-yara)
     - 集成 APK 分析的 Yara 模块。
+* [使用 YARA 规则审计 node_module](https://github.com/rpgeeganage/audit-node-modules-with-yara)
+    - 针对给定的 node_module 文件夹运行一组给定的 YARA 规则
+* [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
+    - 使用 Biclustering 自动生成 Yara 规则。 
 * [bamfdetect](https://github.com/bwall/bamfdetect)
     - 从恶意软件中识别并提取信息。
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
@@ -160,6 +164,8 @@
     - Yara 规则元数据规范和验证程序。
 * [clara](https://github.com/abhinavbom/clara) :sparkles:
     - 实时 ClamAV + Yara 扫描 S3 存储桶。
+* [Cloudina Security Hawk](https://github.com/cloudina/hawk) :sparkles:
+    - 基于 CLAMAV 和 YARA 的云杀软扫描 API，适用于 AWS S3、AZURE Blob 和 GCP。
 * [CrowdStrike Feed Management System](https://github.com/CrowdStrike/CrowdFMS)
     - 自动收集、处理来自 VirusTotal 的样本文件，基于 Yara 规则匹配结果进行处理。
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara)
@@ -277,7 +283,9 @@
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
     - 将 Yara 扫描添加到 Windows 右键点击菜单中。
 * [YaraManager](https://github.com/kevthehermit/YaraManager)
-    - 通过 Web 管理 Yara 规则的工具。
+    - 通过 Web 管理 Yara 
+* [Yaramanager](https://github.com/3c7/yaramanager) ([PyPI](https://pypi.org/project/yaramanager/))
+    - 用于管理和组织 Yara 规则集的命令行工具。
 * [yaramod](https://github.com/avast/yaramod)
     - 将 Yara 规则解析为 AST 的工具，并且提供了构建 Yara 规则的 C++ 接口。
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
@@ -324,6 +332,10 @@
     - 使 Yara 可以检测压缩文件的扩展。
 * [yaraZeekAlert](https://github.com/SCILabsMX/yaraZeekAlert) :sparkles:
     - 使用 Yara 规则扫描文件，出发告警的可发送电子邮件提醒，如果恶意文件小于 10MB 则将其作为附件发送。
+* [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
+    - 用于解析 [Yara 扫描服务](https://riskmitigation.ch/yara-scan/) JSON 结果的工具。
+* [statiStrings](https://github.com/Sh3llyR/statiStrings)
+    - YARA 规则的字符串统计计算器。
 
 ## 服务
 
@@ -341,6 +353,8 @@
     - 用于创建和管理 Yara 规则的多合一网站。
 * [Yara Share](https://yara.adlice.com/)
     - 提供用户上传、共享 Yara 规则的在线社区。
+* [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
+    - 一个针对大量恶意文件和已识别文件测试 Yara 规则的简单服务。
 
 ## 语法高亮
 
@@ -348,7 +362,7 @@
 * 基于 GTK 的编辑器，如 gedit 与 xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
 * Vim: [vim-yara](https://github.com/yaunj/vim-yara)
-* Visual Studio Code: [textmate-yara](https://github.com/infosec-intern/textmate-yara)
+* Visual Studio Code: [vscode-yara](https://github.com/infosec-intern/vscode-yara)
 
 ## 人员
 
