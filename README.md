@@ -80,6 +80,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - Repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
+* [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules)
+    - A small repository which contains some browser based rules.
 * [Intezer Rules](https://github.com/intezer/yara-rules) :sparkles:
     - YARA rules published by Intezer Labs.
 * [InQuest Rules](https://github.com/InQuest/yara-rules) :eyes:
