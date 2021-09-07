@@ -351,6 +351,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Scans files with YARA rules and send email alerts which include network context of the file transfer and attaches the suspicious file if it is less than 10 MB.
 * [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
     - Parsing tool for [Yara Scan Service](https://riskmitigation.ch/yara-scan/)'s JSON output file.
+* [Yobi](https://github.com/imp0rtp3/Yobi) :sparkles:
+    - Yobi is a basic firefox extension which allows to run public or private YARA rules on all scripts and pages rendered by the browser.
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
     - Strings statistics calculator for YARA rules.
 
