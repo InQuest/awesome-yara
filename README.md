@@ -338,7 +338,9 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
-    - A wrapper around the yara-python project the providing multiple capabilities.    
+    - A wrapper around the yara-python project the providing multiple capabilities.
+* [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
+    - A Semi automatic handy tool to generate YARA rules from sample virus files ( WIP ) for Malware Analyst, inspired by DIFF function of VirusTotal Premium Account.     
 * [yaya](https://github.com/EFForg/yaya)
     - Automatically curate open source yara rules and run scans.
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
