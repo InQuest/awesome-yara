@@ -325,6 +325,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang-based web service to scan files with YARA rules.
+* [yara_scanner](https://github.com/tsale/yara_scanner)
+    - This script allows you to scan multiple remote nodes using PsExec and native OS commands.
 * [YaraSharp](https://github.com/stellarbear/YaraSharp)
     - C# wrapper around the Yara pattern matching library
 * [yara_tools](https://github.com/matonis/yara_tools)
