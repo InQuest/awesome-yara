@@ -181,6 +181,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Event Log Analysis Tool that creates/uses YARA rules for Windows event log analysis.
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - Modular, recursive file scanning solution.
+* [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
+    - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
 * [Fnord](https://github.com/Neo23x0/Fnord)
