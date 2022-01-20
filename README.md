@@ -128,6 +128,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Regularly updated YARA rules covering a variety of fresh threats.
 * [t4d's PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)
     - This repository, dedicated to Phishing Kits zip files YARA rules, is based on zip raw format analysis to find directories and files names, you don't need yara-extend there.
+* [Telekom Security Malare Analysis Repository](https://github.com/telekom-security/malware_analysis)
+    - This repository comprises scripts, signatures, and additional IOCs of our blog posts at the telekom.com blog.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Small collection from Tenable Network Security.
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
