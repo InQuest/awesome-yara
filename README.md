@@ -292,7 +292,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
     - Plugins for x64dbg and IDAPython, respectively, that generate YARA rules from function blocks.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
-    - Django web inerface for managing YARA rules.
+    - Django web interface for managing YARA rules.
 * [yara-java](https://github.com/p8a/yara-java)
     - Java bindings for YARA.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
