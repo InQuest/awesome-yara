@@ -292,7 +292,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
     - Plugins for x64dbg and IDAPython, respectively, that generate YARA rules from function blocks.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
-    - Django web inerface for managing YARA rules.
+    - Django web interface for managing YARA rules.
 * [yara-java](https://github.com/p8a/yara-java)
     - Java bindings for YARA.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
@@ -390,6 +390,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * Atom: [language-yara](https://github.com/blacktop/language-yara)
 * Emacs: [yara-mode](https://github.com/binjo/yara-mode)
 * GTK-based editors, like gedit and xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
+* Notepad++: [userDefinedLanguages](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/udl-list.md)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
 * Vim: [vim-yara](https://github.com/yaunj/vim-yara), [vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)
 * Visual Studio Code: [vscode-yara](https://github.com/infosec-intern/vscode-yara)
