@@ -185,6 +185,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Modular, recursive file scanning solution.
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
+* [Fastfinder](https://github.com/codeyourweb/fastfinder)
+    - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host. 
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
 * [Fnord](https://github.com/Neo23x0/Fnord)
