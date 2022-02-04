@@ -79,6 +79,8 @@
     - 由 h3x2b 提供的规则集，可用于辅助逆向工程。例如标识加密代码、高熵值代码（证书发现）、注入\Hook 代码等。
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - Icewater.io 提供的自动生成的 Yara 规则集合。
+* [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules)
+    - 包含基于浏览器的 Yara 规则库。
 * [Intezer Rules](https://github.com/intezer/yara-rules) :sparkles:
     - Intezer 提供的 Yara 规则。
 * [InQuest Rules](https://github.com/InQuest/yara-rules) :eyes:
@@ -91,8 +93,6 @@
     - 社区驱动的 Android APK 恶意软件检测规则。
 * [Loginsoft Rules](https://research.loginsoft.com/yara-rules/)
     - 针对 Microsoft Office 格式文件进行检测的 Yara 规则。
-* [Loginsoft Detection Rules](https://github.com/Loginsoft-Research)
-    - 用于开源组件的威胁检测与异常检测规则。
 * [lw-yara](https://github.com/Hestat/lw-yara)
     - 用于扫描 Linux 服务器中的垃圾邮件、钓鱼网站和其他 Web 恶意程序的规则集。
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
@@ -101,6 +101,8 @@
     - 多来源、有关 Malice.IO 框架的 Yara 规则集。
 * [Malpedia Auto Generated Rules](https://malpedia.caad.fkie.fraunhofer.de/api/get/yara/auto/zip) :sparkles:
     - 包含由 Malpedia 的 YARA-Signator 自动创建的规则。
+* [Malpedia Auto Generated Rules Repo](https://github.com/malpedia/signator-rules) :sparkles:
+    - 请求访问更加容易的、Malpedia 自动生成的、基于代码的 YARA 规则规则库。
 * [McAfee Advanced Threat Research IOCs](https://github.com/advanced-threat-research/IOCs)
     - 与 McAfee ATR 的博客和其他公开文章一起发布的 Yara 规则等。
 * [McAfee Advanced Threat Research Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules)
@@ -125,12 +127,16 @@
     - 针对新兴威胁定期更新的 Yara 规则集合。
 * [t4d's PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)
     - 用于网络钓鱼工具包的 Yara 规则，基于 zip 压缩文件的原始格式分析发现目录与文件名。
+* [Telekom Security Malare Analysis Repository](https://github.com/telekom-security/malware_analysis)
+    - 包含在 telekom.com 博客上发布的脚本、签名和其他 IOC 指标。
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Tenable Network Security 提供的小型规则集合。
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
     - 针对恶意软件的小型规则集合。
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
     - 识别反逆向工程技术的 Yara 规则。
+* [Volexity - Threat-Intel](https://github.com/volexity/threat-intel) :sparkles: :gem:
+    - 包含 Volexity 通过博客公开披露的 IOC 信息。
 * [x64dbg Signatures](https://github.com/x64dbg/yarasigs) :gem:
     - 识别加壳、编译器、加密的签名规则。
 * [YAIDS](https://github.com/wrayjustin/yaids) :gem: :sparkles:
@@ -176,6 +182,10 @@
     - 使用 Yara 规则进行 Windows 事件日志分析。
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - 模块化、递归文件扫描工具。
+* [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
+    - 旨在从正在运行的系统中生成有关已安装软件的 Yara 规则的工具。
+* [Fastfinder](https://github.com/codeyourweb/fastfinder)
+    - 专为事件响应设计的跨平台（Windows、Linux）可疑文件查找工具，支持 MD5/SHA1/SHA256、字符/通配符、正则表达式和 Yara 规则。 
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - 使用 Yara 规则扫描样本文件文件发现加密常量的 IDA Pro 插件。
 * [Fnord](https://github.com/Neo23x0/Fnord)
@@ -202,11 +212,15 @@
     - IOC 提取工具，具备 Yara 规则的提取能力。
 * [Invoke-Yara](https://github.com/secabstraction/Yara)
     - 在远程设备中运行 Yara 的 PowerShell 脚本。
+* [java2yara](https://github.com/fxb-cocacoding/java2yara)
+    - 通过 Java 生成 Yara 规则的库。
 * [KLara](https://github.com/KasperskyLab/klara)
     - 使用 Python 写的分布式扫描系统，允许研究人员扫描样本库中的样本。
 * [Laika BOSS](https://github.com/lmco/laikaboss)
     - 提供可扩展、灵活、详细的对象扫描和入侵检测系统。
     - [Laika BOSS 白皮书](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
+* [libyara.NET](https://github.com/microsoft/libyara.NET)
+    - libyara 的 .NET 接口，基于 C++ CLI 构建。
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - 提取已知恶意软件配置的 Volatility 插件，该工具在内存中搜索恶意软件并提取配置信息。
 * [malscan](https://github.com/usualsuspect/malscan)
@@ -224,6 +238,8 @@
     - [THOR Lite](https://www.nextron-systems.com/thor-lite/) Go 实现的 IOC 与 Yara 规则扫描工具。（闭源、免费但需要注册）
 * [node-yara](https://github.com/nospaceships/node-yara)
     - Yara 的 Node.js 接口。
+* [ocaml-yara](https://github.com/elastic/ocaml-yara)
+    - libyara 的 OCaml 接口。 
 * [OCYara](https://github.com/bandrel/OCyara)
     - 对图片进行 OCR 再使用 Yara 进行扫描。
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
@@ -250,6 +266,8 @@
     - 模块化和高度定制的框架，用于从多个不同数据源创建数据集。
 * [Strelka](https://github.com/target/strelka)
     - 基于 Python3、ZeroMQ 和 Yara 构建的文件分析系统，用于威胁检测和情报收集。
+* [Sysmon EDR](https://github.com/ion-storm/sysmon-edr) :sparkles:
+    - YARA 扫描、进程终止、网络拦截以及更多 EDR 的功能。
 * [SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
     - 使用 Yara 规则在进程内存中进行匹配的 WinDbg 扩展。
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor/)
@@ -290,12 +308,16 @@
     - 将 Yara 规则解析为 AST 的工具，并且提供了构建 Yara 规则的 C++ 接口。
 * [yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
     - Yara 规则覆盖度分析工具。
+* [yara-ocaml](https://github.com/XVilka/yara-ocaml)
+    - Yara 的 OCaml 接口。
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
     - 使用 Go 编写的解析规则工具。
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - 用于 IMAP 订阅与保存流的 Yara 扫描工具。
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
     - Yara 进程内存访问 API 的 Python 接口。
+* [yara-rust](https://github.com/Hugal31/yara-rust)
+    - Yara 的 Rust 接口。
 * [yara-signator](https://github.com/fxb-cocacoding/yara-signator) :sparkles:
     - 用于 Malpedia 的自动 Yara 规则生成工具。
 * [YARA-sort](https://github.com/horsicq/YARA-sort)
@@ -308,6 +330,10 @@
     - Python 开发的、Burp Suite 的 Yara 扩展。
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang 开发的、Yara 扫描文件的 Web 服务。
+* [yara_scanner](https://github.com/tsale/yara_scanner)
+    - 通过 PsExec 和原生操作系统命令扫描远程节点的脚本。
+* [YaraSharp](https://github.com/stellarbear/YaraSharp)
+    - Yara 库的 C# 接口。
 * [yara_tools](https://github.com/matonis/yara_tools)
     - 使用 Python 进行 Yara 规则配置的接口。
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
@@ -322,6 +348,8 @@
     - 用于发现相关样本进行狩猎的 Yara 规则生成工具。
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - 为 yara-python 项目提供接口，包含多种功能。
+* [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
+    - 受 VirusTotal Premium Account 的 DIFF 功能启发，为分析人员依据样本生成 Yara 规则提供便利的半自动工具。
 * [yaya](https://github.com/EFForg/yaya)
     - 自动管理开源 Yara 规则并运行扫描。
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
@@ -334,6 +362,8 @@
     - 使用 Yara 规则扫描文件，出发告警的可发送电子邮件提醒，如果恶意文件小于 10MB 则将其作为附件发送。
 * [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
     - 用于解析 [Yara 扫描服务](https://riskmitigation.ch/yara-scan/) JSON 结果的工具。
+* [Yobi](https://github.com/imp0rtp3/Yobi) :sparkles:
+    - 支持在浏览器页面和脚本上运行 Yara 规则的 Firefox 扩展插件。
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
     - YARA 规则的字符串统计计算器。
 
@@ -359,9 +389,11 @@
 ## 语法高亮
 
 * Atom: [language-yara](https://github.com/blacktop/language-yara)
+* Emacs: [yara-mode](https://github.com/binjo/yara-mode)
 * 基于 GTK 的编辑器，如 gedit 与 xed: [GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
+* Notepad++: [userDefinedLanguages](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/udl-list.md)
 * Sublime Text: [YaraSyntax](https://github.com/nyx0/YaraSyntax/)
-* Vim: [vim-yara](https://github.com/yaunj/vim-yara)
+* Vim: [vim-yara](https://github.com/yaunj/vim-yara), [vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)
 * Visual Studio Code: [vscode-yara](https://github.com/infosec-intern/vscode-yara)
 
 ## 人员
