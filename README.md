@@ -183,6 +183,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Event Log Analysis Tool that creates/uses YARA rules for Windows event log analysis.
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - Modular, recursive file scanning solution.
+* [ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)
+    - MS Exchange transport agent uses YARA to detect malware in email messages.
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
@@ -287,6 +289,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA-CI helps you to keep your YARA rules in good shape. It can be integrated into any GitHub repository containing YARA rules and it will run automated tests every time you make some change.
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
+* [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
+    - .Net Library designed to make it easier to check potentially malicious files and archives using YARA and make a decision about their harmfulness based on the weights of the detected rules.
 * [Yara Finder](https://github.com/uppusaikiran/yara-finder)
     - Web API and docker image for scanning files against YARA rules, built on @tylerha97's yara_scan.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
