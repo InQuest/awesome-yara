@@ -353,6 +353,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - IDAPython plugin for gerenating YARA rules from x86/x86-64 code.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
+* [Yara Scan](http://zeroq.ydns.eu/)
+    - Place to upload files and scan with internal rules.
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - A wrapper around the yara-python project the providing multiple capabilities.
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
