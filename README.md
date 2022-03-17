@@ -157,6 +157,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [androguard](https://github.com/Koodous/androguard-yara)
     - YARA module that integrates APK analysis.
+* [Arya- The Reverse YARA](https://github.com/claroty/arya)
+    - Arya is a unique tool that produces pseudo-malicious files meant to trigger YARA rules. You can think of it like a reverse YARA because it does exactly the opposite - it creates files that matches your rules.
 * [Audit Node Modules With YARA Rules](https://github.com/rpgeeganage/audit-node-modules-with-yara)
     - Run a given set of YARA rules against the given node_module folder
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
