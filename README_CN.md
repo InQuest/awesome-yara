@@ -182,6 +182,8 @@
     - 使用 Yara 规则进行 Windows 事件日志分析。
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - 模块化、递归文件扫描工具。
+* [ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)
+    - 使用 YARA 检测电子邮件中恶意软件的 MS Exchange Transport
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - 旨在从正在运行的系统中生成有关已安装软件的 Yara 规则的工具。
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
@@ -286,6 +288,8 @@
     - YARA-CI 帮助在规则更改时进行自动化测试。
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     - 基于 Yara 的事件响应工具。
+* [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
+    - 使用 Yara 检测恶意文件，并根据匹配规则的权重评估其危害程度的 .NET 库。
 * [Yara Finder](https://github.com/uppusaikiran/yara-finder)
     - 基于 @tylerha97 的 yara_scan 开发的扫描框架，具有 Web API 与 Docker 化部署。
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
@@ -362,6 +366,8 @@
     - 使用 Yara 规则扫描文件，出发告警的可发送电子邮件提醒，如果恶意文件小于 10MB 则将其作为附件发送。
 * [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
     - 用于解析 [Yara 扫描服务](https://riskmitigation.ch/yara-scan/) JSON 结果的工具。
+* [YMCA](https://github.com/m0n4/YARA-Matches-Correspondance-Array)
+    - 显示 YARA 规则和样本之间的匹配关系
 * [Yobi](https://github.com/imp0rtp3/Yobi) :sparkles:
     - 支持在浏览器页面和脚本上运行 Yara 规则的 Firefox 扩展插件。
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
