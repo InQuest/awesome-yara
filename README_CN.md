@@ -156,6 +156,8 @@
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
 * [androguard](https://github.com/Koodous/androguard-yara)
     - 集成 APK 分析的 Yara 模块。
+* [Arya- The Reverse YARA](https://github.com/claroty/arya)
+    - Arya 是用于生成能够触发 Yara 规则的样本文件的工具，即与 Yara 相反的功能，依据规则生成文件。
 * [使用 YARA 规则审计 node_module](https://github.com/rpgeeganage/audit-node-modules-with-yara)
     - 针对给定的 node_module 文件夹运行一组给定的 YARA 规则
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
@@ -350,6 +352,8 @@
     - 基于 x86/x86-64 代码生成 Yara 规则的 IDAPython 插件。
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - 用于发现相关样本进行狩猎的 Yara 规则生成工具。
+* [Yara Scan](http://zeroq.ydns.eu/)
+    - 上传文件并使用内部规则进行扫描。
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - 为 yara-python 项目提供接口，包含多种功能。
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
