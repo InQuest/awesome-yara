@@ -226,6 +226,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - [Whitepaper](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
 * [libyara.NET](https://github.com/microsoft/libyara.NET)
     - .NET wrapper for libyara built in C++ CLI used to easily incorporate yara into .NET projects
+* [Malcat](https://malcat.fr)
+    - Hexadecimal editor, disassembler and decompiler for malware analysis. Embeds both a Yara scanner and rule editor for easy in-app rule creation.
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - MalConfScan is a Volatility plugin extracts configuration data of known malware. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 * [malscan](https://github.com/usualsuspect/malscan)
