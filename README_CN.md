@@ -156,6 +156,8 @@
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
 * [androguard](https://github.com/Koodous/androguard-yara)
     - 集成 APK 分析的 Yara 模块。
+* [Arya- The Reverse YARA](https://github.com/claroty/arya)
+    - Arya 是用于生成能够触发 Yara 规则的样本文件的工具，即与 Yara 相反的功能，依据规则生成文件。
 * [使用 YARA 规则审计 node_module](https://github.com/rpgeeganage/audit-node-modules-with-yara)
     - 针对给定的 node_module 文件夹运行一组给定的 YARA 规则
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
@@ -182,6 +184,8 @@
     - 使用 Yara 规则进行 Windows 事件日志分析。
 * [Emerson File Scanning Framework (FSF)](https://github.com/EmersonElectricCo/fsf)
     - 模块化、递归文件扫描工具。
+* [ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)
+    - 使用 YARA 检测电子邮件中恶意软件的 MS Exchange Transport
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - 旨在从正在运行的系统中生成有关已安装软件的 Yara 规则的工具。
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
@@ -286,6 +290,8 @@
     - YARA-CI 帮助在规则更改时进行自动化测试。
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     - 基于 Yara 的事件响应工具。
+* [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
+    - 使用 Yara 检测恶意文件，并根据匹配规则的权重评估其危害程度的 .NET 库。
 * [Yara Finder](https://github.com/uppusaikiran/yara-finder)
     - 基于 @tylerha97 的 yara_scan 开发的扫描框架，具有 Web API 与 Docker 化部署。
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
@@ -346,6 +352,8 @@
     - 基于 x86/x86-64 代码生成 Yara 规则的 IDAPython 插件。
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - 用于发现相关样本进行狩猎的 Yara 规则生成工具。
+* [Yara Scan](http://zeroq.ydns.eu/)
+    - 上传文件并使用内部规则进行扫描。
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - 为 yara-python 项目提供接口，包含多种功能。
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
@@ -362,6 +370,8 @@
     - 使用 Yara 规则扫描文件，出发告警的可发送电子邮件提醒，如果恶意文件小于 10MB 则将其作为附件发送。
 * [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
     - 用于解析 [Yara 扫描服务](https://riskmitigation.ch/yara-scan/) JSON 结果的工具。
+* [YMCA](https://github.com/m0n4/YARA-Matches-Correspondance-Array)
+    - 显示 YARA 规则和样本之间的匹配关系
 * [Yobi](https://github.com/imp0rtp3/Yobi) :sparkles:
     - 支持在浏览器页面和脚本上运行 Yara 规则的 Firefox 扩展插件。
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
