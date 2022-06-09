@@ -225,6 +225,8 @@
     - [Laika BOSS 白皮书](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
 * [libyara.NET](https://github.com/microsoft/libyara.NET)
     - libyara 的 .NET 接口，基于 C++ CLI 构建。
+* [Malcat](https://malcat.fr)
+    - 用于恶意软件分析领域的十六进制编辑工具、反汇编工具、反编译工具，其中内置了 Yara 扫描工具与 Yara 规则编辑器。工具有免费与付费两个版本。
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - 提取已知恶意软件配置的 Volatility 插件，该工具在内存中搜索恶意软件并提取配置信息。
 * [malscan](https://github.com/usualsuspect/malscan)
