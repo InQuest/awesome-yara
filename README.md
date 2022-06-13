@@ -394,6 +394,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Extract IOCs from Remote Access Trojans.
 * [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/)
     - All-in-one website to create and manage YARA rules.
+* [YARAify](https://yaraify.abuse.ch/):sparkles:
+    - YARAify is a project from abuse.ch that allows anyone to scan suspicious files such as malware samples or process dumps against a large repository of YARA rules.
 * [Yara Share](https://yara.adlice.com/)
     - Free repository and online community for users to upload and share Yara rules.
 * [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
