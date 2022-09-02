@@ -58,6 +58,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - A collection of YARA rules made public by [Adam Swanda](https://www.deadbits.org/), Splunk's Principal Threat Intel. Analyst, from his own recent malware research.
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
     - Collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.eu/).
+* [Elastic Security YARA Rules](https://github.com/elastic/protections-artifacts/tree/main/yara)
+    - Elastic Security provides signature-based YARA rules within the Elastic Endpoint product. These rules are used to detect and prevent emerging threats within Linux, Windows, and macOS systems. Our repository holds over 1,000 YARA rules that are used every day to stop a wide range of threats including: Trojans, ransomware, cryptominers, attack penetration frameworks, and more.
 * [ESET IOCs](https://github.com/eset/malware-ioc/) :eyes:
     - Collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval. New IOCs are often mentioned on the [ESET WeLiveSecurity Blog](https://www.welivesecurity.com/).
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
