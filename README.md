@@ -307,6 +307,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Plugins for x64dbg and IDAPython, respectively, that generate YARA rules from function blocks.
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
     - Django web interface for managing YARA rules.
+* [YaraHunter](https://github.com/deepfence/YaraHunter)
+    - Malware scanner for cloud-native, as part of CI/CD and at Runtime
 * [yara-java](https://github.com/p8a/yara-java)
     - Java bindings for YARA.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
