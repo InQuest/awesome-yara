@@ -65,11 +65,11 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
     - You can find a half dozen YARA rules in Fidelis Cyber's IOC repository. They update this repository on a roughly quarterly interval. Complete blog content is also available in this repository.
 * [FireEye](https://github.com/fireeye/red_team_tool_countermeasures)
-    - FireEye Red Team countermeasures detection 
+    - FireEye Red Team countermeasures detection
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
     - Florian Roth's signature base is a frequently updated collection of IOCs and YARA rules that cover a wide range of threats. There are dozens of rules which are actively maintained. Watch the repository to see rules evolve over time to address false potives / negatives.
 * [Florian Roth's IDDQD Rule](https://gist.github.com/Neo23x0/f1bb645a4f715cb499150c5a14d82b44)
-    - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code. 
+    - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code.
 * [f0wl yara_rules](https://github.com/f0wl/yara_rules)
     - A collection of Yara rules from https://dissectingmalwa.re/ blog posts.
 * [Franke Boldewin Rules](https://github.com/fboldewin/YARA-rules)
@@ -119,7 +119,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
 * [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
-    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses. 
+    - A collection of yara rules published by ReversingLabs which covers exploits, infostealers, ransomeware, trojans, and viruses.
 * [Securitymagic's YARA Rules](https://github.com/securitymagic/yara)
     - YARA rules for a variety of threats.
 * [Sophos AI YaraML Rules](https://github.com/inv-ds-research/yaraml_rules)
@@ -194,7 +194,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
-    - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host. 
+    - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
 * [Fnord](https://github.com/Neo23x0/Fnord)
@@ -309,6 +309,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Django web interface for managing YARA rules.
 * [yara-java](https://github.com/p8a/yara-java)
     - Java bindings for YARA.
+* [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
+    - Visually inspect and force decode YARA and regex matches found in both binary and text data. With Colors.
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - YARA scanner for IMAP feeds and saved streams.
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
@@ -364,7 +366,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - A wrapper around the yara-python project the providing multiple capabilities.
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
-    - A Semi automatic handy tool to generate YARA rules from sample virus files ( WIP ) for Malware Analyst, inspired by DIFF function of VirusTotal Premium Account.     
+    - A Semi automatic handy tool to generate YARA rules from sample virus files ( WIP ) for Malware Analyst, inspired by DIFF function of VirusTotal Premium Account.
 * [yaya](https://github.com/EFForg/yaya)
     - Automatically curate open source yara rules and run scans.
 * [YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
