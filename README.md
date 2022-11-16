@@ -100,6 +100,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Ruleset for scanning Linux servers for shells, spamming, phishing and other webserver baddies.
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
+* [MalGamy's YARA_Rules](https://github.com/MalGamy/YARA_Rules)
+    - A small repository which contains some stealer rules.
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
     - Collection of topical from a variety of sources for the YARA component of the Malice.IO framework.
 * [Malpedia Auto Generated Rules](https://malpedia.caad.fkie.fraunhofer.de/api/get/yara/auto/zip) :sparkles:
