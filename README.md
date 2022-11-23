@@ -78,6 +78,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Mostly filetype detection rules, from the EmersonElectricCo FSF project (see next section).
 * [GoDaddy ProcFilter Rules](https://github.com/godaddy/yara-rules)
     - A couple dozen rules written and released by GoDaddy for use with ProcFilter (see next section). Example rules include detection for packers, mimikatz, and specific malware.
+* [Google Cloud Threat Intelligence(GCTI) Rules](https://github.com/chronicle/GCTI)
+    - Rules to detect CobaltStrike framework and Sliver implant.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
     - Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
