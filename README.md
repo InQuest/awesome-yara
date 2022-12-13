@@ -100,7 +100,11 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Yara Rules for Detecting Malicious Documents targeting Microsoft Office format.
 * [lw-yara](https://github.com/Hestat/lw-yara)
     - Ruleset for scanning Linux servers for shells, spamming, phishing and other webserver baddies.
-* [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
+* [ndaal_YARA_passwords_default](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_default)
+    - YARA rules includes default credentials of at least 1043 organizations which are hashed with different hash permutations such as base64, md5, sha512, etc.
+* [ndaal_YARA_passwords_weak](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_weak)
+    - YARA rules includes hashed passwords of the top weak passwords. The passwords are hashed in a respective rule according to the following permutations such as base64, md5, sha512, etc.
+    - * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [MalGamy's YARA_Rules](https://github.com/MalGamy/YARA_Rules)
     - A small repository which contains some stealer rules.
@@ -248,10 +252,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Generate YARA rules based on binary code.
 * [mquery](https://github.com/CERT-Polska/mquery)
     - Web frontend for running blazingly fast YARA queries on large datasets.
-* [ndaal_YARA_passwords_default](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_default)
-    - YARA rules includes default credentials of at least 1043 organizations which are hashed with different hash permutations such as base64, md5, sha512, etc.
-* [ndaal_YARA_passwords_weak](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_weak)
-    - YARA rules includes hashed passwords of the top weak passwords. The passwords are hashed in a respective rule according to the following permutations such as base64, md5, sha512, etc.
+* [ndaal YARA ruleset checker](https://gitlab.com/ndaal_open_source/ndaal_yara_nyc)
+    - ndaal YARA ruleset checker, Open Source
 * Nextron Systems OSS and Commercial Tools (Florian Roth: @Neo23x0)
     - [Loki](https://github.com/Neo23x0/Loki) IOC and YARA rule scanner implemented in Python. Open source and free.
     - [THOR Lite](https://www.nextron-systems.com/thor-lite/) IOC and YARA rule scanner implemented in Go. Closed source, free, but registration required.
