@@ -201,6 +201,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - MS Exchange transport agent uses YARA to detect malware in email messages.
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
+* [Fadavvi YARA collection script](https://github.com/Fadavvi/Yara-Repo)
+    - A script to collect (the most famous) Yara rules from more than 40 free resources. Milad Fadavvi and Pierre Gronau ndaal
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
     - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
