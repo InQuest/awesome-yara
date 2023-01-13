@@ -104,7 +104,7 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - YARA rules includes default credentials of at least 1043 organizations which are hashed with different hash permutations such as base64, md5, sha512, etc.
 * [ndaal_YARA_passwords_weak](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_weak)
     - YARA rules includes hashed passwords of the top weak passwords. The passwords are hashed in a respective rule according to the following permutations such as base64, md5, sha512, etc.
-    - * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
+* [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - A handful of YARA rules released by NCC Group's Cyber Defence team.
 * [MalGamy's YARA_Rules](https://github.com/MalGamy/YARA_Rules)
     - A small repository which contains some stealer rules.
