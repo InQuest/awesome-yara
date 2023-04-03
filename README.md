@@ -205,6 +205,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - IDA pro plugins to scan your binary with YARA rules to find crypto constants (and more).
+* [Fibratus](https://www.fibratus.io)
+    - A modern tool for Windows kernel exploration and observability with a focus on security and [support for YARA](https://www.fibratus.io/#/filters/functions?id=yara-functions).
 * [Fnord](https://github.com/Neo23x0/Fnord)
     - Pattern extractor for obfuscated code.
 * [generic-parser](https://github.com/uppusaikiran/generic-parser)
