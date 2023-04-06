@@ -75,6 +75,8 @@
     - 用于 EmersonElectricCo FSF 的文件类型检测规则。
 * [GoDaddy ProcFilter Rules](https://github.com/godaddy/yara-rules)
     - 由 GoDaddy 发布的数十条可与 ProcFilter 一起使用的规则，包括检测壳、mimikatz 和特定的恶意软件。
+* [Google Cloud Threat Intelligence(GCTI) Rules](https://github.com/chronicle/GCTI)
+    - 检测 CobaltStrike 与 Sliver 的Yara 规则。
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
     - 由 h3x2b 提供的规则集，可用于辅助逆向工程。例如标识加密代码、高熵值代码（证书发现）、注入\Hook 代码等。
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
@@ -95,6 +97,10 @@
     - 针对 Microsoft Office 格式文件进行检测的 Yara 规则。
 * [lw-yara](https://github.com/Hestat/lw-yara)
     - 用于扫描 Linux 服务器中的垃圾邮件、钓鱼网站和其他 Web 恶意程序的规则集。
+* [ndaal_YARA_passwords_default](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_default)
+    - 包含 1043 个组织默认凭据的 Yara 规则，其中也包含这些凭据的 base64、MD5、SHA512 等编码/哈希。
+* [ndaal_YARA_passwords_weak](https://gitlab.com/ndaal_open_source/ndaal_yara_passwords_weak)
+    - 包含最常见的弱口令的 Yara 规则，其中也包含这些口令的 base64、MD5、SHA512 等编码/哈希。
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - 由 NCC 的网络安全防御团队提供的 Yara 规则集。
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
@@ -156,6 +162,8 @@
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
 * [androguard](https://github.com/Koodous/androguard-yara)
     - 集成 APK 分析的 Yara 模块。
+* [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
+    - 为 YARA 提供布隆过滤器支持，在[hashlookup.io](https://hashlookup.io/)中能够在进一步分析之前快速过滤已知文件。
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
     - Arya 是用于生成能够触发 Yara 规则的样本文件的工具，即与 Yara 相反的功能，依据规则生成文件。
 * [使用 YARA 规则审计 node_module](https://github.com/rpgeeganage/audit-node-modules-with-yara)
@@ -225,6 +233,8 @@
     - [Laika BOSS 白皮书](https://github.com/lmco/laikaboss/blob/master/LaikaBOSS_Whitepaper.pdf)
 * [libyara.NET](https://github.com/microsoft/libyara.NET)
     - libyara 的 .NET 接口，基于 C++ CLI 构建。
+* [Malcat](https://malcat.fr)
+    - 用于恶意软件分析领域的十六进制编辑工具、反汇编工具、反编译工具，其中内置了 Yara 扫描工具与 Yara 规则编辑器。工具有免费与付费两个版本。
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)
     - 提取已知恶意软件配置的 Volatility 插件，该工具在内存中搜索恶意软件并提取配置信息。
 * [malscan](https://github.com/usualsuspect/malscan)
@@ -237,6 +247,8 @@
     - 基于二进制代码创建 Yara 规则。
 * [mquery](https://github.com/CERT-Polska/mquery)
     - 用于在大型数据集上快速进行 Yara 扫描的 Web 前端。
+* [ndaal YARA ruleset checker](https://gitlab.com/ndaal_open_source/ndaal_yara_nyc)
+    - ndaal YARA 规则校验。
 * Nextron Systems OSS and Commercial Tools (Florian Roth: @Neo23x0)
     - [Loki](https://github.com/Neo23x0/Loki) Pyton 实现的 IOC 与 Yara 规则扫描工具。（开源、免费）
     - [THOR Lite](https://www.nextron-systems.com/thor-lite/) Go 实现的 IOC 与 Yara 规则扫描工具。（闭源、免费但需要注册）
@@ -300,8 +312,12 @@
     - 为 x64dbg 与 IDAPython 编写的、基于函数块生成 Yara 规则的插件。
 * [YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
     - 基于 Django 开发、用于管理 Yara 规则的 Web 界面。
+* [YaraHunter](https://github.com/deepfence/YaraHunter)
+    - 云原生恶意软件扫描工具，可作为运行时 CI/CD 的一部分。
 * [yara-java](https://github.com/p8a/yara-java)
     - Yara 的 Java 接口。
+* [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
+    - 通过颜色可视化检查并强制解码二进制数据与文本数据中的 YARA 和正则表达式匹配项。
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - 用于 IMAP 订阅与保存流的 Yara 扫描工具。
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
