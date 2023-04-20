@@ -266,6 +266,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - OCaml bindings to libyara
 * [OCYara](https://github.com/bandrel/OCyara)
     - Performs OCR on image files and scans them for matches to YARA rules.
+* [osquery](https://osquery.readthedocs.io/en/stable/deployment/yara/)
+    - YARA-based scanning with osquery.
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - Scan pastebin.com with YARA rules.
 * [plast](https://github.com/sk4la/plast)
