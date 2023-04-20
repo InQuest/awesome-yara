@@ -366,6 +366,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - This script allows you to scan multiple remote nodes using PsExec and native OS commands.
 * [YaraSharp](https://github.com/stellarbear/YaraSharp)
     - C# wrapper around the Yara pattern matching library
+* [YaraStation](https://github.com/NumLocK15/yarastation)
+    - Yara station is a managment portal designed to facilitate the use of Loki scanner.
 * [yara_tools](https://github.com/matonis/yara_tools)
     - Python bindings to author YARA rules using natural Python conventions.
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
