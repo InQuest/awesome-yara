@@ -344,6 +344,8 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
     - OCaml bindings for YARA
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
     - Tools for parsing rulesets using the exact grammar as YARA. Written in Go.
+* [yaraparser](https://github.com/BitsOfBinary/yaraparser)
+    - Python 3 tool to parse Yara rules.
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - YARA scanner For IMAP feeds and saved streams.
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
