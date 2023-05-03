@@ -30,6 +30,11 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 * :sparkles: - Added more recently, shiny new toys.
 * :trophy: - The biggest collection award, awarded to a single repo.
 
+## 100 Days of YARA (#100DaysofYARA)
+[100 Days of YARA](https://github.com/100DaysofYARA)
+
+An annual YARA challenge started by [Greg Lesnewich](https://twitter.com/greglesnewich) in 2022, inspired by #100DaysOfCode and taking place in the first 100 days of the year. The goal is to contribute daily to the YARA community through rule creation, source code contributions, or generally teaching/help your colleagues. Other key contributors include [Wesley Shields](https://twitter.com/wxs) and [Steve Miller](https://twitter.com/stvemillertime). For a list of all participants in the first two years of the challenge, see our [Twitter List](https://twitter.com/i/lists/1648861278901764096). 
+
 ## Rules
 
 * [AlienVault Labs Rules](https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis)
