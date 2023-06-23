@@ -61,6 +61,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - A collection of Yara rules looking for PEs with PDB paths that have unique, unusual, or overtly malicious-looking keywords, terms, or other features.
 * [Deadbits Rules](https://github.com/deadbits/yara-rules) :eyes:
     - A collection of YARA rules made public by [Adam Swanda](https://www.deadbits.org/), Splunk's Principal Threat Intel. Analyst, from his own recent malware research.
+* [Delivr.to Detections](https://github.com/delivr-to/detections)
+    - This repo serves as a home for detection content developed by the delivr.to team.
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
     - Collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.eu/).
 * [Elastic Security YARA Rules](https://github.com/elastic/protections-artifacts/tree/main/yara)
