@@ -79,7 +79,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - A proof-of-concept rule that shows how easy it actually is to detect red teamer and threat group tools and code.
 * [f0wl yara_rules](https://github.com/f0wl/yara_rules)
     - A collection of Yara rules from https://dissectingmalwa.re/ blog posts.
-* [Franke Boldewin Rules](https://github.com/fboldewin/YARA-rules)
+* [Frank Boldewin's Rules](https://github.com/fboldewin/YARA-rules)
     - A collection of YARA Rules from [@r3c0nst](https://twitter.com/@r3c0nst).
 * [FSF Rules](https://github.com/EmersonElectricCo/fsf/tree/master/fsf-server/yara)
     - Mostly filetype detection rules, from the EmersonElectricCo FSF project (see next section).
