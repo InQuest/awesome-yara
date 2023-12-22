@@ -161,6 +161,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - YAIDS is a Multi-Threaded Intrusion Detection System using Yara. YAIDS supports all valid Yara rules (including modules) and any PCAP compatible data stream (Network, USB, Bluetooth, etc.).
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - Collection of file type identifying rules.
+* [YARA Forge](https://yarahq.github.io/) :gem: :sparkles: :eyes:
+    - YARA Forge specializes in delivering high-quality YARA rule packages for immediate integration into security platforms.
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
     - Rules to identify files containing juicy information like usernames, passwords etc.
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
