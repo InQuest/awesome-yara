@@ -41,8 +41,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://cybersecurity.att.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
 * [Apple OSX](https://gist.github.com/pedramamini/c586a151a978f971b70412ca4485c491)
     - Apple has ~40 YARA signatures for detecting malware on OSX. The file, XProtect.yara, is available locally at /System/Library/CoreServices/XProtect.bundle/Contents/Resources/.
-* [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
-    - Custom rules from Brian Wallace used for bamfdetect, along with some rules from other sources.
 * [bartblaze YARA rules](https://github.com/bartblaze/Yara-rules) :eyes:
     - Collection of personal YARA rules
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public)
@@ -101,8 +99,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - A collection of YARA signatures for various malware families.
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
     - Dozens of rules from the personal collection of Kevin Breen. This repository hasn't been updated since February of 2016.
-* [Koodous Community Rules](https://koodous.com/rulesets)
-    - Community-contributed rules for Android APK malware.
 * [Loginsoft Rules](https://research.loginsoft.com/yara-rules/)
     - Yara Rules for Detecting Malicious Documents targeting Microsoft Office format.
 * [lw-yara](https://github.com/Hestat/lw-yara)
@@ -127,8 +123,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Repository of YARA rules made by McAfee ATR Teams.
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
-* [Patrick Olsen Rules](https://github.com/prolsen/yara-rules) :gem:
-    - Small collection of rules with a wide footprint for variety in detection. RATs, documents, PCAPs, executables, in-memory, point-of-sale malware, and more. Unfortunately this repository hasn't seen an update since late 2014.
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
@@ -174,8 +168,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
-* [androguard](https://github.com/Koodous/androguard-yara)
-    - YARA module that integrates APK analysis.
 * [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
     - YARA module that provides support for bloom filters in yara. In the context of [hashlookup.io](https://hashlookup.io/), it allows to quickly discard known files before any further analysis.
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
@@ -184,8 +176,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Run a given set of YARA rules against the given node_module folder
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
     - Automated Yara Rule generation using Biclustering
-* [bamfdetect](https://github.com/bwall/bamfdetect)
-    - Identifies and extracts information from bots and other malware.
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
     - Generate YARA rules to match terms against base64-encoded data.
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
@@ -219,8 +209,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - A modern tool for Windows kernel exploration and observability with a focus on security and [support for YARA](https://www.fibratus.io/#/filters/functions?id=yara-functions).
 * [Fnord](https://github.com/Neo23x0/Fnord)
     - Pattern extractor for obfuscated code.
-* [generic-parser](https://github.com/uppusaikiran/generic-parser)
-    - Parser with YARA support, to extract meta information, perform static analysis and detect macros within files.
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
     - ProcFilter is a process filtering system for Windows with built-in YARA integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with Microsoft's ETW API, making results viewable in the Windows Event Log. Installation, activation, and removal can be done dynamically and does not require a reboot.
 * [go-yara](https://github.com/hillu/go-yara)
@@ -289,8 +277,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - This tool is designed to make it easy to signature potentially unique parts of RTF files.
 * [VirusTotalTools](https://github.com/silascutler/VirusTotalTools)
     - Tools for checking samples against Virus Total, including VT_RuleMGR, for managing threat hunting YARA rules.
-* [QuickSand.io](http://quicksand.io/)
-    - Compact C framework to analyze suspected malware documents. Also includes a web interface and online analysis.
 * [shotgunyara](https://github.com/darienhuss/shotgunyara)
     - Given a string, create 255 xor encoded versions of that string as a YARA rule.
 * [spyre](https://github.com/spyre-project/spyre)
@@ -323,8 +309,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
 * [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
     - .Net Library designed to make it easier to check potentially malicious files and archives using YARA and make a decision about their harmfulness based on the weights of the detected rules.
-* [Yara Finder](https://github.com/uppusaikiran/yara-finder)
-    - Web API and docker image for scanning files against YARA rules, built on @tylerha97's yara_scan.
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - Quick, simple, and effective yara rule creation to isolate malware families and other malicious objects of interest.
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
@@ -373,8 +357,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Python-based extension that integrates a YARA scanner into Burp Suite.
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang-based web service to scan files with YARA rules.
-* [yara_scanner](https://github.com/tsale/yara_scanner)
-    - This script allows you to scan multiple remote nodes using PsExec and native OS commands.
 * [YaraSharp](https://github.com/stellarbear/YaraSharp)
     - C# wrapper around the Yara pattern matching library
 * [YaraStation](https://github.com/NumLocK15/yarastation)
@@ -391,8 +373,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - IDAPython plugin for gerenating YARA rules from x86/x86-64 code.
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - YARA rule generator for finding related samples and hunting.
-* [Yara Scan](http://zeroq.ydns.eu/)
-    - Place to upload files and scan with internal rules.
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - A wrapper around the yara-python project the providing multiple capabilities.
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
@@ -436,8 +416,6 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - All-in-one website to create and manage YARA rules.
 * [YARAify](https://yaraify.abuse.ch/):sparkles:
     - YARAify is a project from abuse.ch that allows anyone to scan suspicious files such as malware samples or process dumps against a large repository of YARA rules.
-* [Yara Share](https://yara.adlice.com/)
-    - Free repository and online community for users to upload and share Yara rules.
 * [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
     - A simple service to test your Yara rules against a large set of malicious and identified files.
 
