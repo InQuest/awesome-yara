@@ -461,3 +461,7 @@ This list is maintained by [InQuest](https://inquest.net/). Feel free to let us
 know about anything we're missing!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Contributors
+
+[![awesome-yara contributors](https://contrib.rocks/image?repo=inquest/awesome-yara&max=100)](https://github.com/inquest/awesome-yara/graphs/contributors)
