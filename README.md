@@ -201,6 +201,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - Factual-rules-generator is an open source project which aims to generate YARA rules about installed software from a running operating system.
 * [Fadavvi YARA collection script](https://github.com/Fadavvi/Yara-Repo)
+* [FARA](https://github.com/bartblaze/FARA)
+    - FARA, or Faux YARA, is a simple repository that contains a set of purposefully erroneous Yara rules. It is meant as a training vehicle for new security analysts, those that are new to Yara and even Yara veterans that want to keep their rule writing (and debugging) sharp.
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
     - Fast customisable cross-platform suspicious file finder. Designed for incident response. Supports md5/sha1/sha256 hashs, litteral/wildcard strings, regular expressions and YARA rules. Can easily be packed to be deployed on any windows / linux host.
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
