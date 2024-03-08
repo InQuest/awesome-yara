@@ -168,6 +168,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
+* [androguard-yara](https://github.com/MindMac/androguard-yara)
+    - Androguard module for Yara.
 * [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
     - YARA module that provides support for bloom filters in yara. In the context of [hashlookup.io](https://hashlookup.io/), it allows to quickly discard known files before any further analysis.
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
