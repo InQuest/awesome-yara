@@ -65,6 +65,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - This repo serves as a home for detection content developed by the delivr.to team.
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
     - Collection of rules from Didier Stevens, author of a suite of tools for inspecting OLE/RTF/PDF. Didier's rules are worth scrutinizing and are generally written purposed towards hunting. New rules are frequently announced through the [NVISO Labs Blog](https://blog.nviso.eu/).
+* [Ditekshen Rules](https://github.com/ditekshen/detection)
+    - A set of interrelated network and host detection rules with the aim of improving detection and hunting visibility and context.
 * [Elastic Security YARA Rules](https://github.com/elastic/protections-artifacts/tree/main/yara)
     - Elastic Security provides signature-based YARA rules within the Elastic Endpoint product. These rules are used to detect and prevent emerging threats within Linux, Windows, and macOS systems. Our repository holds over 1,000 YARA rules that are used every day to stop a wide range of threats including: Trojans, ransomware, cryptominers, attack penetration frameworks, and more.
 * [ESET IOCs](https://github.com/eset/malware-ioc/) :eyes:
