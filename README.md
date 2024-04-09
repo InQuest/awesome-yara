@@ -322,7 +322,11 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [yaml2yara](https://github.com/nccgroup/yaml2yara)
     - Generate bulk YARA rules from YAML input.
 * [YARA-CI](https://yara-ci.cloud.virustotal.com/) :sparkles:
-    - YARA-CI helps you to keep your YARA rules in good shape. It can be integrated into any GitHub repository containing YARA rules and it will run automated tests every time you make some change.
+    - YARA-CI helps you to keep your YARA rules in good shape. It can be integrated into any GitHub
+* [yaradbg-backend](https://github.com/DissectMalware/yaradbg-backend) :gem:
+    - YaraDbg is a free web-based Yara debugger to help security analysts to write hunting or detection rules with less effort and more confidence.
+* [yaradbg-frontend](https://github.com/DissectMalware/yaradbg-frontend) :eyes:
+    - YaraDbg is a free web-based Yara debugger to help security analysts to write hunting or detection rules with less effort and more confidence. 
 * [yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
     -  Tool useful for incident response as well as anti-malware enpoint based on YARA signatures.
 * [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
