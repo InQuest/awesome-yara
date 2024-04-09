@@ -196,6 +196,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Framework for automating collection and processing of samples from VirusTotal, and executing commands based on YARA rule matches.
 * [CSE-CST AssemblyLine](https://bitbucket.org/cse-assemblyline/alsvc_yara)
     - The Canadian Communications Security Establishment (CSE) open sourced [AssemblyLine](https://cyber.gc.ca/en/assemblyline), a platform for analyzing malicious files. The component linked here provides an interface to YARA.
+* [decompressingyara](https://github.com/rjzak/decompressingyara)
+    - For when your malware samples are stored compressed, but you still want to run rules against them.
 * [dnYara](https://github.com/airbus-cert/dnYara)
     - A multi-platform .NET wrapper library for the native YARA library.
 * [ELAT](https://github.com/reed1713/ELAT)
