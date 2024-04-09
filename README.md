@@ -375,6 +375,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Golang-based web service to scan files with YARA rules.
 * [YaraSharp](https://github.com/stellarbear/YaraSharp)
     - C# wrapper around the Yara pattern matching library
+* [Yara Toolkit](https://yaratoolkit.securitybreak.io/)
+    This is the Yara editor. You can write your own Yara rules or copy paste one to edit it.
 * [YaraStation](https://github.com/NumLocK15/yarastation)
     - Yara station is a managment portal designed to facilitate the use of Loki scanner.
 * [yara_tools](https://github.com/matonis/yara_tools)
