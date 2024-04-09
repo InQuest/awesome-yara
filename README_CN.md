@@ -14,6 +14,7 @@
 
 ### 目录
 
+- [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
 - [规则](#规则)
 - [工具](#工具)
 - [服务](#服务)
@@ -29,14 +30,16 @@
 * :sparkles: - 过去半年新兴的好东西
 * :trophy: - 绝对不能错过
 
+## 100 Days of YARA (#100DaysofYARA)
+
+受到 #100DaysOfCode 活动的启发，[Greg Lesnewich](https://twitter.com/greglesnewich) 在 2022 年发起了名为 #100DaysofYARA 的季度 Yara 挑战活动。活动旨在推动社区进行规则创建、源码贡献或者相关知识的教学。重要贡献者包括 [Wesley Shields](https://twitter.com/wxs)、[Steve Miller](https://twitter.com/stvemillertime)。所有参与者可以参见 [Twitter List](https://twitter.com/i/lists/1648861278901764096)。该活动所有相关的规则，全都整理在 [100 Days of YARA](https://github.com/100DaysofYARA)。
+
 ## 规则
 
 * [AlienVault Labs Rules](https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis)
     - [AlienVault Labs](https://cybersecurity.att.com/blogs/labs-research) 提供的工具、签名和规则的仓库。可通过 .yar 和 .yara 扩展名找到 Yara 规则，包括 APT 检测到通用的沙盒/虚拟机检测。最后更新时间为 2016 年 1 月。
 * [Apple OSX](https://gist.github.com/pedramamini/c586a151a978f971b70412ca4485c491)
     - 近 40 个检测 macOS 上恶意软件的签名。XProtect.yara 文件位于 /System/Library/CoreServices/XProtect.bundle/Contents/Resources/。
-* [bamfdetect rules](https://github.com/bwall/bamfdetect/tree/master/BAMF_Detect/modules/yara)
-    - Brian Wallace 提供的规则集合。
 * [bartblaze YARA rules](https://github.com/bartblaze/Yara-rules) :eyes:
     - 个人 Yara 签名库。
 * [BinaryAlert YARA Rules](https://github.com/airbnb/binaryalert/tree/master/rules/public)
@@ -55,8 +58,12 @@
     - 检测看起来很独特、异常或明显带有恶意关键字的 PDB 路径的 Yara 规则。
 * [Deadbits Rules](https://github.com/deadbits/yara-rules) :eyes:
     - Splunk 的首席威胁情报分析师 [Adam Swanda](https://www.deadbits.org/) 提供的 Yara 规则库，对外披露对恶意软件的研究进展。
+* [Delivr.to Detections](https://github.com/delivr-to/detections)
+    - 由 delivr.to 团队的检测规则库。
 * [Didier Stevens Rules](https://github.com/DidierStevens/DidierStevensSuite) :gem:
     - Didier Stevens 提供的规则集合，用于检查 OLE/RTF/PDF 的工具，这些规则通常是为威胁狩猎而写的，新的规则会在 NVISO 的[博客](https://blog.nviso.eu/)中发布。
+* [Elastic Security YARA Rules](https://github.com/elastic/protections-artifacts/tree/main/yara)
+    - Elastic 在 Elastic 的终端产品中提供基于签名的 Yara 规则，这些规则用于检测 Linux、Windows 和 macOS 系统中出现的威胁。存储库中已经包含 1000 多个 Yara 规则，覆盖木马、勒索软件、挖矿木马、攻击渗透框架等。
 * [ESET IOCs](https://github.com/eset/malware-ioc/) :eyes:
     - ESET 提供的 Yara 签名和 Snort 签名库。可以通过文件扩展名搜索 Yara 规则，仓库每月更新。在 [ESET WeLiveSecurity Blog](https://www.welivesecurity.com/) 上也经常披露 IOC 指标。
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
@@ -91,8 +98,6 @@
     - 各类恶意软件家族的 Yara 规则集。
 * [kevthehermit Rules](https://github.com/kevthehermit/YaraRules)
     - Kevin Breen 个人的数十条规则，自 2016 年 2 月再未更新。
-* [Koodous Community Rules](https://koodous.com/rulesets)
-    - 社区驱动的 Android APK 恶意软件检测规则。
 * [Loginsoft Rules](https://research.loginsoft.com/yara-rules/)
     - 针对 Microsoft Office 格式文件进行检测的 Yara 规则。
 * [lw-yara](https://github.com/Hestat/lw-yara)
@@ -103,6 +108,8 @@
     - 包含最常见的弱口令的 Yara 规则，其中也包含这些口令的 base64、MD5、SHA512 等编码/哈希。
 * [NCC Group Rules](https://github.com/nccgroup/Cyber-Defence/tree/master/Signatures/yara) :eyes:
     - 由 NCC 的网络安全防御团队提供的 Yara 规则集。
+* [MalGamy's YARA_Rules](https://github.com/MalGamy/YARA_Rules)
+    - 包含一些对信息窃密程序的检测 Yara 规则集。
 * [Malice.IO YARA Plugin Rules](https://github.com/malice-plugins/yara/tree/master/rules) :eyes:
     - 多来源、有关 Malice.IO 框架的 Yara 规则集。
 * [Malpedia Auto Generated Rules](https://malpedia.caad.fkie.fraunhofer.de/api/get/yara/auto/zip) :sparkles:
@@ -115,8 +122,6 @@
     - McAfee ATR Teams 提供的 Yara 规则集。
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
     - 各种来源的开源 Yara 规则集合，包含超过 100 个类别、1500 个文件、4000 条规则，如果只能下载一个进行分析，那一定是这个。
-* [Patrick Olsen Rules](https://github.com/prolsen/yara-rules) :gem:
-    - 针对 RAT、文档、PCAP、可执行文件等恶意软件进行扫描的规则集，不幸的是在 2014 年就停止了更新。
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - 该仓库包含一个用 C 写的框架和一些用于恶意软件分析的独立工具，以及一些相关的 Yara 规则。
 * [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
@@ -149,6 +154,8 @@
     - 使用 Yara 的多线程入侵检测系统，YAIDS 支持所有有效的 Yara 规则、模块与任何 PCAP 兼容数据流（网络、USB、蓝牙等）。
 * [YARA-FORENSICS](https://github.com/Xumeiquer/yara-forensics)
     - 文件类型识别规则集合。
+* [YARA Forge](https://yarahq.github.io/) :gem: :sparkles: :eyes:
+    - YARA Forge 专注于提供高准确度的 Yara 规则，以便进行集成。
 * [yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
     - 识别包含类似用户名、密码等信息文件的规则。
 * [YaraRules Project Official Repo](https://github.com/Yara-Rules/rules) :eyes:
@@ -160,8 +167,6 @@
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
-* [androguard](https://github.com/Koodous/androguard-yara)
-    - 集成 APK 分析的 Yara 模块。
 * [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
     - 为 YARA 提供布隆过滤器支持，在[hashlookup.io](https://hashlookup.io/)中能够在进一步分析之前快速过滤已知文件。
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
@@ -170,8 +175,6 @@
     - 针对给定的 node_module 文件夹运行一组给定的 YARA 规则
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
     - 使用 Biclustering 自动生成 Yara 规则。 
-* [bamfdetect](https://github.com/bwall/bamfdetect)
-    - 从恶意软件中识别并提取信息。
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
     - 匹配基于 base64 编码数据的 Yara 规则。
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
@@ -196,14 +199,17 @@
     - 使用 YARA 检测电子邮件中恶意软件的 MS Exchange Transport
 * [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
     - 旨在从正在运行的系统中生成有关已安装软件的 Yara 规则的工具。
+* [Fadavvi YARA collection script](https://github.com/Fadavvi/Yara-Repo)
+* [FARA](https://github.com/bartblaze/FARA)
+    - FARA 又名 Faux YARA，其中包含故意写错的 Yara 规则。旨在为新手安全分析人员、刚接触 Yara 的人员、甚至是希望对 Yara 规则编写保持敏感的人提供学习工具。
 * [Fastfinder](https://github.com/codeyourweb/fastfinder)
     - 专为事件响应设计的跨平台（Windows、Linux）可疑文件查找工具，支持 MD5/SHA1/SHA256、字符/通配符、正则表达式和 Yara 规则。 
 * [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) and [FindYara](https://github.com/OALabs/FindYara)
     - 使用 Yara 规则扫描样本文件文件发现加密常量的 IDA Pro 插件。
+* [Fibratus](https://www.fibratus.io)
+    - 用于 Windows 内核漏洞利用和观测分析的工具，侧重于安全并支持 [Yara](https://www.fibratus.io/#/filters/functions?id=yara-functions) 规则。
 * [Fnord](https://github.com/Neo23x0/Fnord)
     - 用于混淆代码的模式提取工具。
-* [generic-parser](https://github.com/uppusaikiran/generic-parser)
-    - 支持 Yara 的解析器，用于提取文件元信息、执行静态分析并检测文件中的宏代码。
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
     - ProcFilter 是内置 Yara 的 Windows 进程过滤工具，可以使用自定义的元标记对 Yara 规则进行检测，根据检测结果进行对应的响应处理。工具作为 Windows 服务运行，且与 Windows 的 ETW API 整合在一起，结果在 Windows 事件日志中可见。安装、启动和删除都可以动态完成，无需重新启动计算机。
 * [go-yara](https://github.com/hillu/go-yara)
@@ -258,6 +264,8 @@
     - libyara 的 OCaml 接口。 
 * [OCYara](https://github.com/bandrel/OCyara)
     - 对图片进行 OCR 再使用 Yara 进行扫描。
+* [osquery](https://osquery.readthedocs.io/en/stable/deployment/yara/)
+    - 基于 osquery 的 Yara 扫描。
 * [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - 使用 Yara 规则扫描 pastebin.com。
 * [plast](https://github.com/sk4la/plast)
@@ -270,8 +278,6 @@
     - 简化对 RTF 文档中可能独特的部分进行签名。
 * [VirusTotalTools](https://github.com/silascutler/VirusTotalTools)
     - 利用 VirusTotal 分析样本的工具，包括 VT_RuleMGR。
-* [QuickSand.io](http://quicksand.io/)
-    - 分析恶意文档的 Compact C 框架，包括 Web 界面和在线分析能力。
 * [shotgunyara](https://github.com/darienhuss/shotgunyara)
     - 给定一个字符串，基于该字符串创建 255 个异或后的版本的 Yara 规则。
 * [spyre](https://github.com/spyre-project/spyre)
@@ -304,8 +310,6 @@
     - 基于 Yara 的事件响应工具。
 * [YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
     - 使用 Yara 检测恶意文件，并根据匹配规则的权重评估其危害程度的 .NET 库。
-* [Yara Finder](https://github.com/uppusaikiran/yara-finder)
-    - 基于 @tylerha97 的 yara_scan 开发的扫描框架，具有 Web API 与 Docker 化部署。
 * [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - 快速、简单、有效的 Yara 规则生成工具。
 * [YaraGen](https://github.com/mrexodia/YaraGen) and [yara_fn](https://github.com/williballenthin/idawilli/tree/master/scripts/yara_fn)
@@ -334,6 +338,8 @@
     - Yara 的 OCaml 接口。
 * [yara-parser](https://github.com/Northern-Lights/yara-parser)
     - 使用 Go 编写的解析规则工具。
+* [yaraparser](https://github.com/BitsOfBinary/yaraparser)
+    - 解析 Yara 规则的 Python 3 模块。
 * [yaraPCAP](https://github.com/kevthehermit/YaraPcap)
     - 用于 IMAP 订阅与保存流的 Yara 扫描工具。
 * [yara-procdump-python](https://github.com/google/yara-procdump-python)
@@ -352,10 +358,10 @@
     - Python 开发的、Burp Suite 的 Yara 扩展。
 * [yarascanner](https://github.com/jheise/yarascanner)
     - Golang 开发的、Yara 扫描文件的 Web 服务。
-* [yara_scanner](https://github.com/tsale/yara_scanner)
-    - 通过 PsExec 和原生操作系统命令扫描远程节点的脚本。
 * [YaraSharp](https://github.com/stellarbear/YaraSharp)
     - Yara 库的 C# 接口。
+* [YaraStation](https://github.com/NumLocK15/yarastation)
+    - 旨在便利使用 Loki 的管理页面。
 * [yara_tools](https://github.com/matonis/yara_tools)
     - 使用 Python 进行 Yara 规则配置的接口。
 * [Yara-Validator](https://github.com/CIRCL/yara-validator)
@@ -368,8 +374,6 @@
     - 基于 x86/x86-64 代码生成 Yara 规则的 IDAPython 插件。
 * [yarGen](https://github.com/Neo23x0/yarGen)
     - 用于发现相关样本进行狩猎的 Yara 规则生成工具。
-* [Yara Scan](http://zeroq.ydns.eu/)
-    - 上传文件并使用内部规则进行扫描。
 * [Yara Scanner](https://github.com/ace-ecosystem/yara_scanner)
     - 为 yara-python 项目提供接口，包含多种功能。
 * [Yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
@@ -386,6 +390,10 @@
     - 使用 Yara 规则扫描文件，出发告警的可发送电子邮件提醒，如果恶意文件小于 10MB 则将其作为附件发送。
 * [yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
     - 用于解析 [Yara 扫描服务](https://riskmitigation.ch/yara-scan/) JSON 结果的工具。
+* [YARI](https://github.com/avast/yari)
+    - Rust 编写的 Yara 规则交互式调试器。
+* [YLS](https://github.com/avast/yls)
+    - 能够与 VS Code 和 Vim 集成使用的语言服务器，提供代码补全、函数文档、代码格式化和功能调试等功能。
 * [YMCA](https://github.com/m0n4/YARA-Matches-Correspondance-Array)
     - 显示 YARA 规则和样本之间的匹配关系
 * [Yobi](https://github.com/imp0rtp3/Yobi) :sparkles:
@@ -407,8 +415,8 @@
     - 从 RAT 木马中提取 IOC 指标。
 * [YaraEditor (Web)](https://www.adlice.com/download/yaraeditorweb/)
     - 用于创建和管理 Yara 规则的多合一网站。
-* [Yara Share](https://yara.adlice.com/)
-    - 提供用户上传、共享 Yara 规则的在线社区。
+* [YARAify](https://yaraify.abuse.ch/):sparkles:
+    - YARAify 是 abuse.ch 提供的服务，任何人都可以提交可疑文件进行扫描。
 * [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
     - 一个针对大量恶意文件和已识别文件测试 Yara 规则的简单服务。
 
