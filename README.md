@@ -127,6 +127,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
+* [Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs/)
+    - This repository contains a curated collection of Sigma & Yara rules and Indicators of Compromise (IOCs) shared by Rapid7 Labs.
 * [Rastrea2r](https://github.com/rastrea2r/rastrea2r)
     - Triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes.
 * [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) :sparkles: :eyes:
