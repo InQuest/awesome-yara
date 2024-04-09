@@ -169,6 +169,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Large collection of rules constantly updated by the community.
 * [Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)
     - Rules created for the Unprotect Project for detecting malware evasion techniques.
+    * [Unprotect Project](https://unprotect.it/detection-rules/)
+      -   Detection Rule List.
 
 ## Tools
 
