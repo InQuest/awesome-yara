@@ -180,8 +180,10 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Run a given set of YARA rules against the given node_module folder
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
     - Automated Yara Rule generation using Biclustering
-* [base64_substring](https://github.com/DissectMalware/base64_substring)
+* [bincapz](https://github.com/DissectMalware/base64_substring)
     - Generate YARA rules to match terms against base64-encoded data.
+* [base64_substring](https://github.com/chainguard-dev/bincapz)
+    - Enumerates program capabilities and malicious behaviors using fragment analysis..
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
 * [CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)
