@@ -127,6 +127,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Repository of YARA rules made by McAfee ATR Teams.
 * [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
+* [Public YARA Rules](https://github.com/jipegit/yara-rules-public)
+    - Repository of Public YARA Rules.
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - This repo contains a C framework and standalone tool for malware analysis, along with several useful YARA rules developed for use with the project.
 * [Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs/)
