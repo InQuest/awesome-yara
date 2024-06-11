@@ -14,14 +14,15 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 ### Contents
 
-* [Rules](#rules)
-* [Tools](#tools)
-* [Services](#services)
-* [Syntax Highlighters](#syntax-highlighters)
-* [People](#people)
-* [Related Awesome Lists](#related-awesome-lists)
-* [Contributing](#contributing)
-* [Just for Fun](http://yaramate.com)
+- [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
+- [Rules](#rules)
+- [Tools](#tools)
+- [Services](#services)
+- [Syntax Highlighters](#syntax-highlighters)
+- [People](#people)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 ### Legend
 
@@ -151,6 +152,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - This repository comprises scripts, signatures, and additional IOCs of our blog posts at the telekom.com blog.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Small collection from Tenable Network Security.
+* [ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
+    - Yara rules for Threat Hunting sessions
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
     - Small collection of malware rules.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
@@ -190,9 +193,9 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Run a given set of YARA rules against the given node_module folder
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
     - Automated Yara Rule generation using Biclustering
-* [bincapz](https://github.com/DissectMalware/base64_substring)
+* [base64_substring](https://github.com/DissectMalware/base64_substring)
     - Generate YARA rules to match terms against base64-encoded data.
-* [base64_substring](https://github.com/chainguard-dev/bincapz)
+* [bincapz](https://github.com/chainguard-dev/bincapz)
     - Enumerates program capabilities and malicious behaviors using fragment analysis..
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
