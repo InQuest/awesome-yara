@@ -482,7 +482,6 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Lightweight Binary Similarity - YARA Using PE Features for Quick Wins](https://github.com/g-les/YARA-PE-Features)
 * [DEF CON 26 - Andrea Marcelli - Looking for the perfect signature an automatic YARA rules](https://www.youtube.com/watch?v=Dz0C55Azn1Y)
 
-
 ## Related Awesome Lists
 
 * [Crawler](https://github.com/BruceDone/awesome-crawler)
