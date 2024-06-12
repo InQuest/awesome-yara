@@ -14,14 +14,17 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 
 ### Contents
 
-* [Rules](#rules)
-* [Tools](#tools)
-* [Services](#services)
-* [Syntax Highlighters](#syntax-highlighters)
-* [People](#people)
-* [Related Awesome Lists](#related-awesome-lists)
-* [Contributing](#contributing)
-* [Just for Fun](http://yaramate.com)
+- [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
+- [Guides](#guides)
+- [Rules](#rules)
+- [Tools](#tools)
+- [Services](#services)
+- [Syntax Highlighters](#syntax-highlighters)
+- [People](#people)
+- [Videos and Talks](#videos-and-talks)
+- [Related Awesome Lists](#related-awesome-lists)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 ### Legend
 
@@ -34,6 +37,11 @@ A curated list of awesome YARA rules, tools, and resources. Inspired by [awesome
 An annual YARA challenge started by [Greg Lesnewich](https://twitter.com/greglesnewich) in 2022, inspired by #100DaysOfCode and taking place in the first 100 days of the year. The goal is to contribute daily to the YARA community through rule creation, source code contributions, or generally teaching/help your colleagues. Other key contributors include [Wesley Shields](https://twitter.com/wxs) and [Steve Miller](https://twitter.com/stvemillertime). For a list of all participants in the first two years of the challenge, see our [Twitter List](https://twitter.com/i/lists/1648861278901764096).
 
 Rule collections from prior years of the challenge: [100 Days of YARA](https://github.com/100DaysofYARA)
+
+## Guides
+
+* [Yara Performance Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines)
+* [YARA-Style-Guide](https://github.com/Neo23x0/YARA-Style-Guide)
 
 ## Rules
 
@@ -151,6 +159,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - This repository comprises scripts, signatures, and additional IOCs of our blog posts at the telekom.com blog.
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Small collection from Tenable Network Security.
+* [ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
+    - Yara rules for Threat Hunting sessions
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
     - Small collection of malware rules.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
@@ -190,9 +200,9 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Run a given set of YARA rules against the given node_module folder
 * [AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
     - Automated Yara Rule generation using Biclustering
-* [bincapz](https://github.com/DissectMalware/base64_substring)
+* [base64_substring](https://github.com/DissectMalware/base64_substring)
     - Generate YARA rules to match terms against base64-encoded data.
-* [base64_substring](https://github.com/chainguard-dev/bincapz)
+* [bincapz](https://github.com/chainguard-dev/bincapz)
     - Enumerates program capabilities and malicious behaviors using fragment analysis..
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
@@ -460,6 +470,17 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 ## People
 
 We're aggregating the Twitter handles for anyone involved with the projects on this page into a single list: [awesome-yara Twitter list](https://twitter.com/InQuest/lists/awesome-yara). Do let us know if anyone is missing.
+
+## Videos and Talks
+
+* [Finding Evil with YARA](https://www.youtube.com/watch?v=mQ-mqxOfopk)
+* [SAS2018: Finding aliens, star weapons and ponies with YARA](https://www.youtube.com/watch?v=fbidgtOXvc0)
+* [Costin Raiu - Combining code similarity with Yara to find goodies](https://www.youtube.com/watch?v=DQXpdEvyasc)
+* [YARA Rule Processing Sessions - Florian Roth](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
+* [Upping the APT hunting game: learn the best YARA practices from Kaspersky](https://securelist.com/yara-webinar-follow-up/96505/)
+* [Star-Gazing | Using a Full Galaxy of YARA Methods to Pursue an Apex Actor | By Greg Lesnewich](https://www.youtube.com/watch?v=aaV7UieJ_l4)
+* [Lightweight Binary Similarity - YARA Using PE Features for Quick Wins](https://github.com/g-les/YARA-PE-Features)
+* [DEF CON 26 - Andrea Marcelli - Looking for the perfect signature an automatic YARA rules](https://www.youtube.com/watch?v=Dz0C55Azn1Y)
 
 ## Related Awesome Lists
 
