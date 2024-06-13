@@ -100,7 +100,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
     - Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
 * [HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) :trophy:
-    - World's largest open source YARA collection with no duplicates, no invalid ones and only few files. Also it contains ClamAV + YARA-X or YARA + Machine Learning + IDS canner and signatures and SUBLIME + CAPA + SIGMA signatures.
+    - World's largest open source YARA collection with no duplicates, no invalid ones and only few files. Also it contains ClamAV + YARA-X or YARA + Machine Learning + IDS canner and signatures and SUBLIME + CAPA + SIGMA signatures. Finally it has so big malware collection.
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - Repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
 * [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules)
