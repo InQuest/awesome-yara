@@ -99,6 +99,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Rules to detect CobaltStrike framework and Sliver implant.
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
     - Collection of signatures from h3x2b which stand out in that they are generic and can be used to assist in reverse engineering. There are YARA rules for identifying crypto routines, highly entropic sections (certificate discovery for example), discovering injection / hooking functionality, and more.
+* [HydraDragonAntivirus](https://github.com/abhinavbom/clara) :trophy:
+    - World's largest open source YARA collection with no duplicates, no invalid ones and only few files. Also it contains ClamAV + YARA-X or YARA + Machine Learning + IDS canner and signatures and SUBLIME + CAPA + SIGMA signatures.
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - Repository of automatically generated YARA rules from Icewater.io. This repository is updated rapidly with newly generated signatures that mostly match on file size range and partial content hashes.
 * [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules)
@@ -133,7 +135,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - IOCs, including YARA rules, to accompany McAfee ATR's blog and other public posts.
 * [McAfee Advanced Threat Research Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules)
     - Repository of YARA rules made by McAfee ATR Teams.
-* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
+* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes:
     - Large collection of open source rules aggregated from a variety of sources, including blogs and other more ephemeral sources. Over 100 categories, 1500 files, 4000 rules, and 20Mb. If you're going to pull down a single repo to play with, this is the one.
 * [Public YARA Rules](https://github.com/jipegit/yara-rules-public)
     - Repository of Public YARA Rules.
