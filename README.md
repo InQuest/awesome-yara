@@ -359,6 +359,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Java bindings for YARA.
 * [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
     - Visually inspect and force decode YARA and regex matches found in both binary and text data. With Colors.
+* [yaramail](https://seanthegeek.github.io/yaramail/)
+    - A YARA scanner designed for phishing triage automation. Categorizes emails email authentication, attachments, and normalized body content.  
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - YARA scanner for IMAP feeds and saved streams.
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
