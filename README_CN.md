@@ -15,11 +15,13 @@
 ### 目录
 
 - [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
+- [指南](#指南)
 - [规则](#规则)
 - [工具](#工具)
 - [服务](#服务)
 - [语法高亮](#语法高亮)
 - [人员](#人员)
+- [视频与演讲](#视频与演讲)
 - [相关列表](#相关列表)
 - [贡献](#贡献)
 
@@ -33,6 +35,11 @@
 ## 100 Days of YARA (#100DaysofYARA)
 
 受到 #100DaysOfCode 活动的启发，[Greg Lesnewich](https://twitter.com/greglesnewich) 在 2022 年发起了名为 #100DaysofYARA 的季度 Yara 挑战活动。活动旨在推动社区进行规则创建、源码贡献或者相关知识的教学。重要贡献者包括 [Wesley Shields](https://twitter.com/wxs)、[Steve Miller](https://twitter.com/stvemillertime)。所有参与者可以参见 [Twitter List](https://twitter.com/i/lists/1648861278901764096)。该活动所有相关的规则，全都整理在 [100 Days of YARA](https://github.com/100DaysofYARA)。
+
+## 指南
+
+* [Yara 性能指南](https://github.com/Neo23x0/YARA-Performance-Guidelines)
+* [YARA 风格指南](https://github.com/Neo23x0/YARA-Style-Guide)
 
 ## 规则
 
@@ -86,6 +93,8 @@
     - 检测 CobaltStrike 与 Sliver 的Yara 规则。
 * [h3x2b Rules](https://github.com/h3x2b/yara-rules) :gem:
     - 由 h3x2b 提供的规则集，可用于辅助逆向工程。例如标识加密代码、高熵值代码（证书发现）、注入\Hook 代码等。
+* [HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) :trophy:
+    - 世界上最大的开源 YARA 规则集，没有重复规则、没有无效规则。其中还包含 ClamAV + YARA-X 或 YARA + 机器学习 + IDS 签名以及 SUBLIME + CAPA + SIGMA 签名。此外，该规则集还拥有许多恶意软件样本。
 * [Icewater Rules](https://github.com/SupportIntelligence/Icewater)
     - Icewater.io 提供的自动生成的 Yara 规则集合。
 * [imp0rtp3's Rules](https://github.com/imp0rtp3/yara-rules)
@@ -120,7 +129,7 @@
     - 与 McAfee ATR 的博客和其他公开文章一起发布的 Yara 规则等。
 * [McAfee Advanced Threat Research Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules)
     - McAfee ATR Teams 提供的 Yara 规则集。
-* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes: :trophy:
+* [mikesxrs YARA Rules Collection](https://github.com/mikesxrs/Open-Source-YARA-rules) :eyes:
     - 各种来源的开源 Yara 规则集合，包含超过 100 个类别、1500 个文件、4000 条规则，如果只能下载一个进行分析，那一定是这个。
 * [QuickSand Lite Rules](https://github.com/tylabs/quicksand_lite)
     - 该仓库包含一个用 C 写的框架和一些用于恶意软件分析的独立工具，以及一些相关的 Yara 规则。
@@ -142,6 +151,8 @@
     - 包含在 telekom.com 博客上发布的脚本、签名和其他 IOC 指标。
 * [Tenable Rules](https://github.com/tenable/yara-rules)
     - Tenable Network Security 提供的小型规则集合。
+* [ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
+    - Yara 威胁狩猎会议规则
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
     - 针对恶意软件的小型规则集合。
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
@@ -167,6 +178,10 @@
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - 开源 AWS 管道，使用配置好的 Yara 签名扫描上传到 S3 中的所有文件。
+* [alterix](https://github.com/mtnmunuklu/alterix)
+    - 将 Yara 规则转换为 CRYPTTECH SIEM 的查询语句。
+* [androguard-yara](https://github.com/MindMac/androguard-yara)
+    - Yara 的 Androguard 模块。
 * [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
     - 为 YARA 提供布隆过滤器支持，在[hashlookup.io](https://hashlookup.io/)中能够在进一步分析之前快速过滤已知文件。
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
@@ -177,6 +192,8 @@
     - 使用 Biclustering 自动生成 Yara 规则。 
 * [base64_substring](https://github.com/DissectMalware/base64_substring)
     - 匹配基于 base64 编码数据的 Yara 规则。
+* [bincapz](https://github.com/chainguard-dev/bincapz)
+    - 使用片段分析枚举程序功能和恶意行为。
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - 用于从恶意软件中提取 Payload 和配置文件的 Cuckoo 的扩展，首次运行检测恶意软件家族，根据不同的家族在二次执行时提取 Payload 和配置文件。
 * [CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)
@@ -322,6 +339,8 @@
     - Yara 的 Java 接口。
 * [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
     - 通过颜色可视化检查并强制解码二进制数据与文本数据中的 YARA 和正则表达式匹配项。
+* [yaramail](https://seanthegeek.github.io/yaramail/)
+    - 专为网络钓鱼分类自动化而设计的 Yara 扫描工具。对电子邮件、电子邮件身份验证、附件和规范化正文内容进行分类。
 * [yaraMail](https://github.com/kevthehermit/yaraMail)
     - 用于 IMAP 订阅与保存流的 Yara 扫描工具。
 * [Yara Malware Quick menu scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
@@ -433,6 +452,17 @@
 ## 人员
 
 将本页提到的有关人员的 Twitter 汇总到一个列表（[awesome-yara Twitter list](https://twitter.com/InQuest/lists/awesome-yara)）中，如果未列出可以向我们确认。
+
+## 视频与演讲
+
+* [与 Yara 一同寻找恶意攻击](https://www.youtube.com/watch?v=mQ-mqxOfopk)
+* [SAS2018: 用 Yara 发现线索](https://www.youtube.com/watch?v=fbidgtOXvc0)
+* [Costin Raiu - 通过 Yara 与代码相似进行狩猎](https://www.youtube.com/watch?v=DQXpdEvyasc)
+* [Yara 规则处理会议 - Florian Roth](https://www.youtube.com/playlist?list=PL8OlALxRcWsSEPtN6AujulTHVc9HZMwso)
+* [狩猎 APT，与卡巴斯基学习最佳 Yara 实践](https://securelist.com/yara-webinar-follow-up/96505/)
+* [使用 Yara 追踪顶级攻击者 | By Greg Lesnewich](https://www.youtube.com/watch?v=aaV7UieJ_l4)
+* [轻量级二进制相似 - Yara 中如何使用 PE 文件特征](https://github.com/g-les/YARA-PE-Features)
+* [DEF CON 26 - Andrea Marcelli - 寻找最佳签名与自动化生成 Yara 规则](https://www.youtube.com/watch?v=Dz0C55Azn1Y)
 
 ## 相关列表
 
