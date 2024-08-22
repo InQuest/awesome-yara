@@ -81,6 +81,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Collection of YARA and Snort rules from IOCs collected by ESET researchers. There's about a dozen YARA Rules to glean from in this repo, search for file extension .yar. This repository is seemingly updated on a roughly monthly interval. New IOCs are often mentioned on the [ESET WeLiveSecurity Blog](https://www.welivesecurity.com/).
 * [Fidelis Rules](https://github.com/fideliscyber/indicators/tree/master/yararules)
     - You can find a half dozen YARA rules in Fidelis Cyber's IOC repository. They update this repository on a roughly quarterly interval. Complete blog content is also available in this repository.
+* [Filescan.io Rules](https://github.com/filescanio/fsYara) ✨
+    - A collection of curated YARA rules used as part of the Filescan.io service.
 * [FireEye](https://github.com/fireeye/red_team_tool_countermeasures)
     - FireEye Red Team countermeasures detection
 * [Florian Roth Rules](https://github.com/Neo23x0/signature-base/tree/master/yara) :eyes: :gem:
