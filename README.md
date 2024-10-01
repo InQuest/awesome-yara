@@ -245,6 +245,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Pattern extractor for obfuscated code.
 * [GoDaddy ProcFilter](https://github.com/godaddy/procfilter) :gem:
     - ProcFilter is a process filtering system for Windows with built-in YARA integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with Microsoft's ETW API, making results viewable in the Windows Event Log. Installation, activation, and removal can be done dynamically and does not require a reboot.
+* [GhidraYara](https://github.com/subreption/ghidra_yara)
+      - A Ghidra extension providing direct integration of YARA through an analyzer, as well as rule generation from code listings and management in the Ghidra UI. Supports an extensive library of cryptographic constants, CRC tables, etc.
 * [go-yara](https://github.com/hillu/go-yara)
     - Go bindings for YARA.
 * [halogen](https://github.com/target/halogen)
@@ -357,8 +359,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Django web interface for managing YARA rules.
 * [YaraHunter](https://github.com/deepfence/YaraHunter)
     - Malware scanner for cloud-native, as part of CI/CD and at Runtime
-* [yara-java](https://github.com/p8a/yara-java)
-    - Java bindings for YARA.
+* [yara-java](https://github.com/subreption/yara-java)
+    - Java bindings for YARA (SUbreption fork, maintained as of 2024, [old bindings](https://github.com/p8a/yara-java)).
 * [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
     - Visually inspect and force decode YARA and regex matches found in both binary and text data. With Colors.
 * [yaramail](https://seanthegeek.github.io/yaramail/)
