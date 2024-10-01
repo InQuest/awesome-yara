@@ -360,7 +360,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 * [YaraHunter](https://github.com/deepfence/YaraHunter)
     - Malware scanner for cloud-native, as part of CI/CD and at Runtime
 * [yara-java](https://github.com/subreption/yara-java)
-    - Java bindings for YARA (SUbreption fork, maintained as of 2024, [old bindings](https://github.com/p8a/yara-java)).
+    - Java bindings for YARA (Subreption fork, maintained as of 2024, [old bindings](https://github.com/p8a/yara-java)).
 * [yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
     - Visually inspect and force decode YARA and regex matches found in both binary and text data. With Colors.
 * [yaramail](https://seanthegeek.github.io/yaramail/)
