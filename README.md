@@ -280,6 +280,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - MalConfScan is a Volatility plugin extracts configuration data of known malware. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
 * [malscan](https://github.com/usualsuspect/malscan)
     - Scan process memory for YARA matches and execute Python scripts if a match is found.
+* [malwatch](https://github.com/defended-net/malwatch)
+    - Fast and lightweight malware scanner written in go that is ideal for Linux based web server environments. Currently used with some of the internet's largest deployments.
 * [Manalyzer Yara Validator](https://yaravalidator.manalyzer.org/)
     - Compile your rules on all yara versions online to detect compatibility issues!
 * [MISP Threat Sharing](https://github.com/MISP/MISP)
