@@ -196,6 +196,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Converts Yara rules to the query language of CRYPTTECH's SIEM
 * [androguard-yara](https://github.com/MindMac/androguard-yara)
     - Androguard module for Yara.
+* [APKiD](https://github.com/rednaga/APKiD)
+    - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 * [a-ray-grass](https://github.com/hashlookup/a-ray-grass)
     - YARA module that provides support for bloom filters in yara. In the context of [hashlookup.io](https://hashlookup.io/), it allows to quickly discard known files before any further analysis.
 * [Arya- The Reverse YARA](https://github.com/claroty/arya)
