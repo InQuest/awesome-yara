@@ -67,6 +67,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - YARA signatures developed by Citizen Lab. Dozens of signatures covering a variety of malware families. The also inclde a syntax file for Vim. Last update was in November of 2016.
 * [ConventionEngine Rules](https://github.com/stvemillertime/ConventionEngine) :sparkles:
     - A collection of Yara rules looking for PEs with PDB paths that have unique, unusual, or overtly malicious-looking keywords, terms, or other features.
+* [CyStack Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints) :sparkles:
+    - YARA rules and field-signature fingerprints for 30+ infostealer log families including RedLine, Vidar, Lumma and StealC. Each family folder contains a rules.yar, a sanitized sample, and fingerprint metadata (banner strings, field keys).
 * [Deadbits Rules](https://github.com/deadbits/yara-rules) :eyes:
     - A collection of YARA rules made public by [Adam Swanda](https://www.deadbits.org/), Splunk's Principal Threat Intel. Analyst, from his own recent malware research.
 * [Delivr.to Detections](https://github.com/delivr-to/detections)
