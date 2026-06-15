@@ -194,6 +194,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 ## Tools
 
+* [AIDebug](https://github.com/anpa1200/AIDebug)
+    - AI-assisted malware reverse-engineering debugger that emits analyst-review YARA candidates, ATT&CK mappings, IOCs, JSON, and HTML reports.
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
 * [alterix](https://github.com/mtnmunuklu/alterix)
